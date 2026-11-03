@@ -1234,11 +1234,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
+    "astrocyte-signaling-updated",
     "chrneuroinflammation46-updated"
    ],
    "summary": "Galactosylceramidase is the enzyme lost in Krabbe disease. GALC-deficient microglia fail to raise TREM2 and clear myelin debris after demyelination, and GALC-null astrocytes overexpress lipocalin-2.",
    "links": [
-    "Supports TREM2 induction in microglia (top-level map)."
+    "Supports TREM2 induction in microglia (top-level map).",
+    "Its loss raises LCN2 transcription in astrocytes by a mechanism not shown: unknown process (?) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1314,11 +1316,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
-    "chrneuroinflammation46-updated"
+    "chrneuroinflammation46-updated",
+    "nlrp3-inflammasome-updated"
    ],
    "summary": "Cholesterol 25-hydroxylase makes 25-hydroxycholesterol. In microglia its knockout lowers IL-1beta after LPS and blocks NLRP3 inflammasome assembly, and its deletion rescues tau neurodegeneration. The product 25-HC is anti-inflammatory in peripheral macrophages, so the sign is microglia-specific.",
    "links": [
-    "Induced by TLR4 signalling and promotes NLRP3 inflammasome activation in microglia (top-level map)."
+    "Induced by TLR4 signalling and promotes NLRP3 inflammasome activation in microglia (top-level map).",
+    "Made under TLR4 signalling (omitted process, //); converts cholesterol to 25-hydroxycholesterol, which promotes NLRP3 inflammasome activation by a mechanism not shown (?) (NLRP3 inflammasome)."
    ],
    "refs": [
     {
@@ -1459,7 +1463,8 @@
    ],
    "summary": "CYBB (NOX2, gp91phox) is the catalytic subunit of the microglial and neuronal NADPH oxidase that makes superoxide. In an LPS Parkinson model NOX2 drives degeneration, and neuronal NOX2 deletion is protective.",
    "links": [
-    "Drives oxidative stress in microglia (top-level map)."
+    "Drives oxidative stress in microglia (top-level map).",
+    "As part of NADPH oxidase (CYBB, CYBA, NCF1, NCF2, RAC1) reduces oxygen to superoxide (Ferroptosis)."
    ],
    "refs": [
     {
@@ -1581,11 +1586,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
+    "astrocyte-signaling-updated",
     "chrneuroinflammation46-updated"
    ],
    "summary": "The POMC peptide alpha-MSH, through the melanocortin-4 receptor, dampens astrocyte inflammation. It lowers iNOS and NO in primary astrocytes, and astrocyte-specific MC4R knockdown in EAE removes its suppression of NF-kB signalling. The active peptide is alpha-MSH, cleaved from POMC.",
    "links": [
-    "Acts through MC4R to lower NF-kB signalling in astrocytes (top-level map)."
+    "Acts through MC4R to lower NF-kB signalling in astrocytes (top-level map).",
+    "Cleaved to alpha-MSH, which binds MC4R on astrocytes; the complex lowers NOS2 transcription through cAMP signalling, steps not shown (//) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1635,11 +1642,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
+    "astrocyte-signaling-updated",
     "chrneuroinflammation46-updated"
    ],
    "summary": "CXCL16 is made by microglia and macrophages and recruits CXCR6-positive CD8 T cells into the injured and amyloid-laden brain. It also makes astrocytes release CCL2.",
    "links": [
-    "Recruits CD8 T cells through CXCR6 (top-level map)."
+    "Recruits CD8 T cells through CXCR6 (top-level map).",
+    "Binds CXCR6 on astrocytes; the complex raises CCL2 transcription by a mechanism not shown (?) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1698,11 +1707,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
-    "chrneuroinflammation46-updated"
+    "chrneuroinflammation46-updated",
+    "neuron-signaling-updated"
    ],
    "summary": "CCL4 (MIP-1beta) is a microglial chemokine. Through CCR5 it drives microglial engulfment of synapses and, on neurons, blocks autophagy, shown with knockdown, overexpression and the CCR5 blocker maraviroc.",
    "links": [
-    "Acts through CCR5 to drive synapse loss (top-level map)."
+    "Acts through CCR5 to drive synapse loss (top-level map).",
+    "Binds CCR5 on neurons, leading to mTOR activation and a block of autophagy (Neuron signaling)."
    ],
    "refs": [
     {
@@ -1723,11 +1734,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
+    "astrocyte-signaling-updated",
     "chrneuroinflammation46-updated"
    ],
    "summary": "The melanocortin-4 receptor is the alpha-MSH receptor on astrocytes and neurons. Astrocyte-specific MC4R knockdown in EAE and MC4R knockout with cell-specific rescue show that it lowers NF-kB signalling and iNOS. Added as the missing partner of POMC, after it passed the bar by itself.",
    "links": [
-    "Binds alpha-MSH and lowers NF-kB signalling in astrocytes (top-level map)."
+    "Binds alpha-MSH and lowers NF-kB signalling in astrocytes (top-level map).",
+    "Binds alpha-MSH on astrocytes; the complex lowers NOS2 transcription by steps not shown (//) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1765,11 +1778,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
+    "astrocyte-signaling-updated",
     "chrneuroinflammation46-updated"
    ],
    "summary": "CXCR6 is the CXCL16 receptor on CD8 T cells. In 5xFAD mice its loss removes brain CD8 T cells, raises amyloid and worsens memory, with more microglial TNF. Added as the missing partner of CXCL16, after it passed the bar by itself.",
    "links": [
-    "Binds CXCL16 and drives CD8 T cell accumulation (top-level map)."
+    "Binds CXCL16 and drives CD8 T cell accumulation (top-level map).",
+    "On astrocytes binds CXCL16; the complex raises CCL2 transcription by a mechanism not shown (?) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1857,11 +1872,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
-    "chrneuroinflammation46-updated"
+    "chrneuroinflammation46-updated",
+    "neuron-signaling-updated"
    ],
    "summary": "CCR5 is a CCL4 receptor on neurons and microglia. On neurons it blocks autophagy through mTORC1 in Huntington and tau models, rescued by maraviroc; on microglia it drives synapse engulfment. It is protective in some other CNS models, so the sign depends on the setting. Added as the missing partner of CCL4, after it passed the bar by itself.",
    "links": [
-    "Binds CCL4 and drives synapse loss in microglia (top-level map)."
+    "Binds CCL4 and drives synapse loss in microglia (top-level map).",
+    "In neurons CCL4 binds CCR5; the complex activates mTOR by steps not shown (//), and active mTOR blocks autophagy (Neuron signaling)."
    ],
    "refs": [
     {
