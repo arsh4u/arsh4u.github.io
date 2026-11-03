@@ -26711,6 +26711,134 @@ GSH production and regeneration
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
 <celldesigner:baseReactants>
+<celldesigner:baseReactant species="s_add4" alias="csa_add5"/>
+</celldesigner:baseReactants>
+<celldesigner:baseProducts>
+<celldesigner:baseProduct species="s_add15" alias="csa_add16"/>
+</celldesigner:baseProducts>
+<celldesigner:listOfReactantLinks>
+<celldesigner:reactantLink reactant="s_add12" alias="sa_add13" targetLineIndex="-1,0">
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ffe69500" type="Straight"/>
+</celldesigner:reactantLink>
+</celldesigner:listOfReactantLinks>
+<celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ffe69500"/>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#re_add40">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:35666306"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference metaid="CDMT00531" species="s_add4">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>csa_add5</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+<speciesReference metaid="CDMT00532" species="s_add12">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add13</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfReactants>
+<listOfProducts>
+<speciesReference metaid="CDMT00533" species="s_add15">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>csa_add16</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfProducts>
+</reaction>
+<reaction metaid="re_add41" id="re_add41" reversible="false">
+<annotation>
+<celldesigner:extension>
+<celldesigner:reactionType>UNKNOWN_TRANSITION</celldesigner:reactionType>
+<celldesigner:baseReactants>
+<celldesigner:baseReactant species="s1941" alias="sa124"/>
+</celldesigner:baseReactants>
+<celldesigner:baseProducts>
+<celldesigner:baseProduct species="s_add23" alias="sa_add24"/>
+</celldesigner:baseProducts>
+<celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ffe69500"/>
+<celldesigner:listOfModification>
+<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add15" aliases="csa_add16" targetLineIndex="-1,2">
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ffe69500"/>
+</celldesigner:modification>
+</celldesigner:listOfModification>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#re_add41">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:35666306"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference metaid="CDMT00534" species="s1941">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa124</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfReactants>
+<listOfProducts>
+<speciesReference metaid="CDMT00535" species="s_add23">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add24</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfProducts>
+<listOfModifiers>
+<modifierSpeciesReference metaid="CDMT00536" species="s_add15">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>csa_add16</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</modifierSpeciesReference>
+</listOfModifiers>
+</reaction>
+<reaction metaid="re_add42" id="re_add42" reversible="false">
+<annotation>
+<celldesigner:extension>
+<celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
+<celldesigner:baseReactants>
 <celldesigner:baseReactant species="s_add1" alias="sa_add2"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
@@ -26734,7 +26862,7 @@ GSH production and regeneration
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add40">
+<rdf:Description rdf:about="#re_add42">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:8756616"/>
@@ -26744,14 +26872,14 @@ GSH production and regeneration
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00531" species="s_add1">
+<speciesReference metaid="CDMT00537" species="s_add1">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add2</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
-<speciesReference metaid="CDMT00532" species="s_add25">
+<speciesReference metaid="CDMT00538" species="s_add25">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add26</celldesigner:alias>
@@ -26760,7 +26888,7 @@ GSH production and regeneration
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00533" species="s_add28">
+<speciesReference metaid="CDMT00539" species="s_add28">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>csa_add29</celldesigner:alias>
@@ -26769,7 +26897,7 @@ GSH production and regeneration
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add41" id="re_add41" reversible="false">
+<reaction metaid="re_add43" id="re_add43" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>TRANSCRIPTION</celldesigner:reactionType>
@@ -26797,7 +26925,7 @@ GSH production and regeneration
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add41">
+<rdf:Description rdf:about="#re_add43">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:8756616"/>
@@ -26812,7 +26940,7 @@ GSH production and regeneration
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00534" species="s_add34">
+<speciesReference metaid="CDMT00540" species="s_add34">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add35</celldesigner:alias>
@@ -26821,7 +26949,7 @@ GSH production and regeneration
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00535" species="s_add37">
+<speciesReference metaid="CDMT00541" species="s_add37">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add38</celldesigner:alias>
@@ -26830,7 +26958,7 @@ GSH production and regeneration
 </speciesReference>
 </listOfProducts>
 <listOfModifiers>
-<modifierSpeciesReference metaid="CDMT00536" species="s_add28">
+<modifierSpeciesReference metaid="CDMT00542" species="s_add28">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>csa_add29</celldesigner:alias>
@@ -26839,7 +26967,7 @@ GSH production and regeneration
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add42" id="re_add42" reversible="false">
+<reaction metaid="re_add44" id="re_add44" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>TRANSLATION</celldesigner:reactionType>
@@ -26857,7 +26985,7 @@ GSH production and regeneration
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add42">
+<rdf:Description rdf:about="#re_add44">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:17015745"/>
@@ -26867,7 +26995,7 @@ GSH production and regeneration
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00537" species="s_add37">
+<speciesReference metaid="CDMT00543" species="s_add37">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add38</celldesigner:alias>
@@ -26876,7 +27004,7 @@ GSH production and regeneration
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00538" species="s2092">
+<speciesReference metaid="CDMT00544" species="s2092">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa276</celldesigner:alias>
