@@ -26786,7 +26786,7 @@ GSH production and regeneration
 </celldesigner:connectScheme>
 <celldesigner:line width="1.0" color="ffe69500"/>
 <celldesigner:listOfModification>
-<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add15" aliases="csa_add16" targetLineIndex="-1,2">
+<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add15" aliases="csa_add16" targetLineIndex="-1,3">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
@@ -26914,7 +26914,7 @@ GSH production and regeneration
 </celldesigner:connectScheme>
 <celldesigner:line width="1.0" color="ffe69500"/>
 <celldesigner:listOfModification>
-<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add28" aliases="csa_add29" targetLineIndex="-1,2">
+<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add28" aliases="csa_add29" targetLineIndex="-1,3">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>

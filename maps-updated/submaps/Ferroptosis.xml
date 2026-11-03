@@ -2469,7 +2469,7 @@ ITLN1 gene expression increases with age
 </celldesigner:complexSpeciesAlias>
 <celldesigner:complexSpeciesAlias id="csa_add2" species="s_add1" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4391.0" y="2530.0" w="90.0" h="200.0"/>
+<celldesigner:bounds x="4390.0" y="2544.0" w="90.0" h="200.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -7476,7 +7476,7 @@ ITLN1 gene expression increases with age
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add4" species="s_add3" compartmentAlias="ca1" complexSpeciesAlias="csa_add2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4401.0" y="2535.0" w="70.0" h="30.0"/>
+<celldesigner:bounds x="4400.0" y="2549.0" w="70.0" h="30.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -7495,7 +7495,7 @@ ITLN1 gene expression increases with age
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add7" species="s_add6" compartmentAlias="ca1" complexSpeciesAlias="csa_add2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4401.0" y="2570.0" w="70.0" h="30.0"/>
+<celldesigner:bounds x="4400.0" y="2584.0" w="70.0" h="30.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -7514,7 +7514,7 @@ ITLN1 gene expression increases with age
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add10" species="s_add9" compartmentAlias="ca1" complexSpeciesAlias="csa_add2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4401.0" y="2605.0" w="70.0" h="30.0"/>
+<celldesigner:bounds x="4400.0" y="2619.0" w="70.0" h="30.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -7533,7 +7533,7 @@ ITLN1 gene expression increases with age
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add13" species="s_add12" compartmentAlias="ca1" complexSpeciesAlias="csa_add2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4401.0" y="2640.0" w="70.0" h="30.0"/>
+<celldesigner:bounds x="4400.0" y="2654.0" w="70.0" h="30.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -7552,7 +7552,7 @@ ITLN1 gene expression increases with age
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add16" species="s_add15" compartmentAlias="ca1" complexSpeciesAlias="csa_add2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4401.0" y="2675.0" w="70.0" h="30.0"/>
+<celldesigner:bounds x="4400.0" y="2689.0" w="70.0" h="30.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -20988,7 +20988,7 @@ lipid peroxide repair
 <celldesigner:editPoints>0.0010301175860148184,0.12430085537912143 1.0009614430802805,0.11601413168718</celldesigner:editPoints>
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 <celldesigner:listOfModification>
-<celldesigner:modification type="CATALYSIS" modifiers="s_add1" aliases="csa_add2" targetLineIndex="-1,2">
+<celldesigner:modification type="CATALYSIS" modifiers="s_add1" aliases="csa_add2" targetLineIndex="-1,3">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>

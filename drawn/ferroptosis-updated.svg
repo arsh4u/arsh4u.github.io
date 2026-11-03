@@ -153,8 +153,8 @@
 <text x="5920" y="2184" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">respiratory chain complex IV</text>
 <polygon points="5821,1832 5979,1832 5984,1837 5984,1883 5979,1888 5821,1888 5816,1883 5816,1837" fill="#f7f7f7" stroke="#000" stroke-dasharray="5,3" stroke-width="2"/>
 <text x="5900" y="1881" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">respiratory chain complex I</text>
-<polygon points="4396,2530 4476,2530 4481,2535 4481,2725 4476,2730 4396,2730 4391,2725 4391,2535" fill="#66b2ff" stroke="#000" stroke-width="2"/>
-<text x="4436" y="2723" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NADPH oxidase</text>
+<polygon points="4395,2544 4475,2544 4480,2549 4480,2739 4475,2744 4395,2744 4390,2739 4390,2549" fill="#66b2ff" stroke="#000" stroke-width="2"/>
+<text x="4435" y="2737" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NADPH oxidase</text>
 <polygon points="2737,2050 2925,2050 2930,2055 2930,2068.75 2925,2073.75 2737,2073.75 2732,2068.75 2732,2055" fill="#f7f7f7" stroke="#000" stroke-width="2"/>
 <text x="2831" y="2066.75" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">hydroxy aldehydes</text>
 <polygon points="2987,1900 3175,1900 3180,1905 3180,1918.75 3175,1923.75 2987,1923.75 2982,1918.75 2982,1905" fill="#f7f7f7" stroke="#000" stroke-width="2"/>
@@ -827,16 +827,16 @@
 <ellipse cx="5812.94" cy="1979.5" rx="32" ry="8" fill="#fff" stroke="#000"/>
 <text x="5812.94" y="1982.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="10" text-anchor="middle">Abeta 42</text>
 <text x="5812.94" y="2003.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">APP</text>
-<rect x="4401" y="2535" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
-<text x="4436" y="2554" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CYBB</text>
-<rect x="4401" y="2570" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
-<text x="4436" y="2589" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CYBA</text>
-<rect x="4401" y="2605" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
-<text x="4436" y="2624" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NCF1</text>
-<rect x="4401" y="2640" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
-<text x="4436" y="2659" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NCF2</text>
-<rect x="4401" y="2675" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
-<text x="4436" y="2694" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">RAC1</text>
+<rect x="4400" y="2549" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="4435" y="2568" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CYBB</text>
+<rect x="4400" y="2584" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="4435" y="2603" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CYBA</text>
+<rect x="4400" y="2619" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="4435" y="2638" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NCF1</text>
+<rect x="4400" y="2654" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="4435" y="2673" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NCF2</text>
+<rect x="4400" y="2689" width="70" height="30" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="4435" y="2708" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">RAC1</text>
 <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
 <polyline points="4510,1777 4510,1735 4407,1735"/>
 <polyline points="3670,2019.5 3670,1451.5"/>
@@ -1103,7 +1103,7 @@
 <polyline points="5657,1960 5625,1960 5625,2024"/>
 <polyline points="5740.34,1955.24 5762.02,1955.31 5762.43,1822"/>
 <polyline points="4255,2465.5 4255,2490 4617,2490 4617,2482.5"/>
-<polyline points="4436,2522 4436,2492.5"/>
+<polyline points="4435.72,2536 4435.95,2502.5"/>
 </g>
 <polygon points="4385,1735 4400,1730 4400,1740" fill="#000"/>
 <polyline points="4510,1785 4510,1735 4399,1735" fill="none" stroke="#000000" stroke-width="1"/>
@@ -1732,7 +1732,7 @@
 <polyline points="5732.34,1955.22 5762.02,1955.31 5762.46,1814" fill="none" stroke="#000000" stroke-width="1"/>
 <polygon points="4617,2460.5 4622,2475.5 4612,2475.5" fill="#000"/>
 <polyline points="4255,2457.5 4255,2490 4617,2490 4617,2474.5" fill="none" stroke="#1f6fd1" stroke-width="1"/>
-<circle cx="4436" cy="2489.5" r="3" fill="#fff" stroke="#000"/>
-<polyline points="4436,2530 4436,2492.5" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<circle cx="4435.97" cy="2499.5" r="3" fill="#fff" stroke="#000"/>
+<polyline points="4435.67,2544 4435.95,2502.5" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(4436,2490) rotate(0)"/>
 </svg>

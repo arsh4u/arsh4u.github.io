@@ -10140,7 +10140,7 @@
 </celldesigner:linkTarget>
 <celldesigner:line width="1.0" color="ff000000"/>
 </celldesigner:modification>
-<celldesigner:modification type="CATALYSIS" modifiers="s_add8" aliases="csa_add9" targetLineIndex="-1,2">
+<celldesigner:modification type="CATALYSIS" modifiers="s_add8" aliases="csa_add9" targetLineIndex="-1,3">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
