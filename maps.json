@@ -298,13 +298,13 @@
   "slug": "nlrp3-inflammasome-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/NLRP3 inflammasome.xml",
-  "sha1": "3ac6568fc58ca0e4ef66667f61122f90744bbc75",
+  "sha1": "714e2110df571a1eb37b7ac3a059fe16b4c3f2f4",
   "error": "",
   "notes": [],
-  "svg": "95d0dcfb0c74a730ef6479544c131c3485af4499",
+  "svg": "b20164524c2494782972bf5373cae7c63f2065c2",
   "width": 4300.0,
   "height": 3210.0,
-  "ann": "42208cd6ac73a6efe1535c45f140f2a6cd194f4b",
+  "ann": "60d9041c0db9896461c3ae4f584b996e8dc8e612",
   "updated": true
  },
  {
@@ -319,19 +319,5 @@
   "width": 13244.0,
   "height": 7334.0,
   "ann": "33bb64cb149ff1217f5b13c5723623d2469a3ed2"
- },
- {
-  "name": "GBA1",
-  "slug": "small-gba1",
-  "group": "Small maps",
-  "file": "maps-small/gba1.xml",
-  "sha1": "4d57e7cb60b24b49124295f17ef95921086e42b9",
-  "error": "",
-  "notes": [],
-  "svg": "5258823f3fa48324ab40ddedf7cb5f974e0be45e",
-  "width": 2000.0,
-  "height": 1400.0,
-  "ann": "2111ae2043b26c3fd4ca85bb8b910c43c3cc400b",
-  "about": "GBA1 cleaves glucosylceramide in the lysosome; glucosylceramide stabilises alpha-synuclein oligomers, which block GBA1 transport to the lysosome (Mazzulli 2011) (to be merged into: NLRP3 inflammasome: waits, the phagolysosome there has no room without moving existing nodes)"
  }
 ]

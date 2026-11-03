@@ -13,10 +13,10 @@
 <rect x="1190" y="955" width="768" height="600" rx="20" fill="none" stroke="#66b44d" stroke-width="2"/>
 <rect x="1202" y="967" width="744" height="576" rx="14" fill="none" stroke="#66b44d" stroke-width="1"/>
 <text x="1217.5" y="1535" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="start">nucleus</text>
-<ellipse cx="3503.5" cy="728.5" rx="285.5" ry="125.5" fill="none" stroke="#66b44d" stroke-opacity="0.25" stroke-width="12"/>
-<ellipse cx="3503.5" cy="728.5" rx="291.5" ry="131.5" fill="none" stroke="#66b44d" stroke-width="2"/>
-<ellipse cx="3503.5" cy="728.5" rx="279.5" ry="119.5" fill="none" stroke="#66b44d" stroke-width="1"/>
-<text x="3464.5" y="724" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="start">phagolysosome</text>
+<ellipse cx="3602" cy="728.5" rx="384" ry="125.5" fill="none" stroke="#66b44d" stroke-opacity="0.25" stroke-width="12"/>
+<ellipse cx="3602" cy="728.5" rx="390" ry="131.5" fill="none" stroke="#66b44d" stroke-width="2"/>
+<ellipse cx="3602" cy="728.5" rx="378" ry="119.5" fill="none" stroke="#66b44d" stroke-width="1"/>
+<text x="3690" y="860.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="start">phagolysosome</text>
 <polygon points="3039.68,396.5 3204.68,396.5 3209.68,401.5 3209.68,570.5 3204.68,575.5 3039.68,575.5 3034.68,570.5 3034.68,401.5" fill="#f7f7f7" stroke="#000" stroke-dasharray="5,3" stroke-width="2"/>
 <text x="3122.18" y="568.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">purinergic receptors</text>
 <polygon points="2592,2283 2718,2283 2723,2288 2723,2342 2718,2347 2592,2347 2587,2342 2587,2288" fill="#f7f7f7" stroke="#000" stroke-dasharray="5,3" stroke-width="2"/>
@@ -235,8 +235,8 @@
 <line x1="3635.1" y1="779.1" x2="3623.1" y2="809.1" stroke="#000"/>
 <rect x="3514.1" y="696.1" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="3554.1" y="720.1" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CTSD</text>
-<rect x="3407.2" y="711.1" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
-<text x="3447.2" y="735.1" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">GBA1</text>
+<rect x="3895" y="690" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="3935" y="714" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">GBA1</text>
 <rect x="2538" y="1330" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="2578" y="1354" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">PLIN2</text>
 <circle cx="3705" cy="805" r="11.25" fill="#66b2ff" stroke="#000"/>
@@ -251,6 +251,10 @@
 <text x="2035" y="1346.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">cholesterol</text>
 <ellipse cx="2365" cy="1342.5" rx="75" ry="12.5" fill="#ccff66" stroke="#000"/>
 <text x="2365" y="1346.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">25-hydroxycholesterol</text>
+<ellipse cx="3810" cy="782.5" rx="70" ry="12.5" fill="#ccff66" stroke="#000"/>
+<text x="3810" y="786.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">glucosylceramide</text>
+<ellipse cx="3810" cy="662.5" rx="50" ry="12.5" fill="#ccff66" stroke="#000"/>
+<text x="3810" y="666.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">ceramide</text>
 <rect x="2854.38" y="456.15" width="80" height="40" rx="5" fill="#e7dbe2" stroke="#000"/>
 <text x="2894.38" y="480.15" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">SNCA</text>
 <rect x="2856.38" y="501.15" width="80" height="50" rx="5" fill="#e7dbe2" stroke="#000"/>
@@ -403,7 +407,7 @@
 <polyline points="3640.08,756.73 3638.47,762.21"/>
 <polyline points="3595.18,740.14 3635.63,763.81"/>
 <polyline points="3667.96,755.47 3685.09,778.38"/>
-<polyline points="3495.1,738.85 3676.83,768.26"/>
+<polyline points="3741.49,775.41 3687.71,769.84"/>
 <polyline points="2356.85,1250.74 2357,1300 2800,1300 2814.5,1263.91"/>
 <polyline points="2578.25,1322 2578.43,1303"/>
 <polyline points="2417.74,1330.77 2570.69,1296.74"/>
@@ -411,6 +415,8 @@
 <polyline points="2139.71,1136.08 2202.07,1144.55"/>
 <polyline points="2088,1342.5 2268,1342.5"/>
 <polyline points="2199.57,1262.85 2186.44,1330.14"/>
+<polyline points="3810,762 3810,697"/>
+<polyline points="3887.04,714.61 3812.47,721.78"/>
 </g>
 <polygon points="3034.68,486 3019.7,491.06 3019.66,481.06" fill="#000"/>
 <polyline points="3000,372.5 3000.48,486.15 3020.68,486.06" fill="none" stroke="#000000" stroke-width="1"/>
@@ -657,8 +663,8 @@
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(3637.3,766.19) rotate(106.38)"/>
 <polygon points="3698.27,796 3685.28,786.98 3693.29,780.99" fill="#000"/>
 <polyline points="3663.17,749.06 3689.89,784.78" fill="none" stroke="#1f6fd1" stroke-width="1"/>
-<polygon points="3684.73,769.53 3676.19,772.2 3677.47,764.31" fill="#fff" stroke="#000"/>
-<polyline points="3487.2,737.57 3676.83,768.26" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<line x1="3688.33" y1="763.87" x2="3687.09" y2="775.81" stroke="#000"/>
+<polyline points="3749.44,776.23 3687.71,769.84" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(3680.72,772.53) rotate(53.22)"/><text x="3680.72" y="775.53" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" text-anchor="middle">//</text>
 <polygon points="2822.7,1243.5 2821.75,1259.28 2812.47,1255.55" fill="#000"/>
 <polyline points="2356.82,1242.74 2357,1300 2800,1300 2817.48,1256.49" fill="none" stroke="#1f6fd1" stroke-width="1"/>
@@ -677,4 +683,9 @@
 <circle cx="2185.86" cy="1333.08" r="3" fill="#fff" stroke="#000"/>
 <polyline points="2201.1,1255 2186.44,1330.14" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(2185,1342.5) rotate(0)"/>
+<polygon points="3810,675 3815,690 3805,690" fill="#000"/>
+<polyline points="3810,770 3810,689" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<circle cx="3809.48" cy="722.07" r="3" fill="#fff" stroke="#000"/>
+<polyline points="3895,713.85 3812.47,721.78" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(3810,722.5) rotate(-90)"/>
 </svg>

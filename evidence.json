@@ -1204,7 +1204,7 @@
    ],
    "summary": "Glucocerebrosidase is the lysosomal enzyme lost in Gaucher disease and a Parkinson risk gene. Its loss and alpha-synuclein form a bidirectional loop: low GCase raises alpha-synuclein, which in turn lowers GCase, shown in neurons and patient tissue.",
    "links": [
-    "Supports lysosomal clearance of alpha-synuclein (NLRP3 inflammasome): drawn as one omitted process (//), since glucocerebrosidase does not cut alpha-synuclein; its loss lets glucosylceramide build up, which stabilises alpha-synuclein oligomers (small map GBA1)."
+    "Cleaves glucosylceramide to ceramide in the phagolysosome; glucosylceramide, which builds up when GBA1 is low, slows the lysosomal clearance of alpha-synuclein (it stabilises soluble oligomers), drawn as an inhibition of the omitted (//) clearance step (NLRP3 inflammasome, Mazzulli 2011). The loop back, alpha-synuclein blocking GBA1 transport to the lysosome, is not drawn."
    ],
    "refs": [
     {
