@@ -1361,7 +1361,7 @@
    ],
    "summary": "Interferon regulatory factor 1 is induced by IFN-gamma in astrocytes and binds inflammatory gene promoters. Astrocyte-specific Irf1 deletion limits blood-brain barrier disruption after injury, and Irf1 knockout reduces EAE and infarct size.",
    "links": [
-    "Induced by IFN-gamma receptor signalling (top-level map); drives CXCL10 transcription in astrocytes (Astrocyte signaling). The outgoing top-level arc to CXCL10 was removed."
+    "Induced by IFN-gamma receptor signalling (top-level map). In the astrocyte nucleus it drives CXCL10 transcription (Astrocyte signaling). The outgoing top-level arc to CXCL10 was removed."
    ],
    "refs": [
     {

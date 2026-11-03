@@ -6425,9 +6425,9 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add3" species="s_add2" compartmentAlias="ca1">
+<celldesigner:speciesAlias id="sa_add3" species="s_add2" compartmentAlias="ca2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="3372.8" y="601.0" w="80.0" h="40.0"/>
+<celldesigner:bounds x="2700.0" y="1395.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -8988,7 +8988,7 @@
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add2" id="s_add2" name="IRF1" compartment="c1" initialAmount="0">
+<species metaid="s_add2" id="s_add2" name="IRF1" compartment="c2" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
