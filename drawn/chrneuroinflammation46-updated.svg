@@ -69,10 +69,8 @@
 <text x="4785.7" y="1306.63" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">OSMR</text>
 <polygon points="1764.8,834.1 1854.8,834.1 1859.8,839.1 1859.8,944.1 1854.8,949.1 1764.8,949.1 1759.8,944.1 1759.8,839.1" fill="#ffcc00" stroke="#000" stroke-width="2"/>
 <text x="1809.8" y="937.43" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">OSMR</text>
-<polygon points="3417.4,867.7 3507.4,867.7 3512.4,872.7 3512.4,977.7 3507.4,982.7 3417.4,982.7 3412.4,977.7 3412.4,872.7" fill="#ffcc00" stroke="#000" stroke-width="2"/>
-<text x="3462.4" y="971.03" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGAV:ITGB5</text>
-<polygon points="6753.4,2441 6843.4,2441 6848.4,2446 6848.4,2551 6843.4,2556 6753.4,2556 6748.4,2551 6748.4,2446" fill="#ffcc00" stroke="#000" stroke-width="2"/>
-<text x="6798.4" y="2544.33" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGAV:ITGB5</text>
+<polygon points="2340,1500 2420,1500 2425,1505 2425,1590 2420,1595 2340,1595 2335,1590 2335,1505" fill="#ffcc00" stroke="#000" stroke-width="2"/>
+<text x="2380" y="1583.33" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IL17R</text>
 <rect x="1913.5" y="1707.5" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
 <text x="1953.5" y="1734.17" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">INS</text>
 <rect x="1913.5" y="1540.5" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
@@ -397,10 +395,20 @@
 <text x="4643" y="3251.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCR5</text>
 <rect x="6819" y="736" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="6859" y="762.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCR5</text>
-<rect x="4810.9" y="1117.1" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="4850.9" y="1143.77" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">VTN</text>
-<rect x="6819" y="615" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="6859" y="641.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCL13</text>
+<rect x="6748.4" y="2441" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="6788.4" y="2467.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGAV</text>
+<rect x="6748.4" y="2525" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="6788.4" y="2551.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">VTN</text>
+<rect x="3412.4" y="867.7" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="3452.4" y="894.37" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGAV</text>
+<rect x="2551.1" y="1300" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="2591.1" y="1326.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ACKR3</text>
+<rect x="2896" y="1560" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
+<text x="2936" y="1586.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IL17A</text>
+<rect x="2930" y="1700" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="2970" y="1726.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCL13</text>
+<rect x="3085" y="1700" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="3125" y="1726.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCR5</text>
 <rect x="7058.6" y="1301.1" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="7098.6" y="1327.77" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">GPNMB</text>
 <rect x="6235" y="1540" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
@@ -437,6 +445,10 @@
 <text x="7420.6" y="2418.27" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CCR5</text>
 <rect x="6783.8" y="1718.6" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="6823.8" y="1745.27" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">GALC</text>
+<rect x="7478.1" y="2354.3" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="7518.1" y="2380.97" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">AXL</text>
+<rect x="7564.2" y="2287.9" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="7604.2" y="2314.57" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">FCGR3A</text>
 <rect x="6250" y="960" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
 <text x="6290" y="986.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IFNGR1</text>
 <rect x="6250" y="1005" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
@@ -511,14 +523,10 @@
 <text x="1809.8" y="865.77" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">OSMR</text>
 <rect x="1769.8" y="884.1" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="1809.8" y="910.77" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IL6ST</text>
-<rect x="3422.4" y="872.7" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="3462.4" y="899.37" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGAV</text>
-<rect x="3422.4" y="917.7" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="3462.4" y="944.37" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGB5</text>
-<rect x="6758.4" y="2446" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="6798.4" y="2472.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGAV</text>
-<rect x="6758.4" y="2491" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="6798.4" y="2517.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ITGB5</text>
+<rect x="2345" y="1505" width="70" height="30" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="2380" y="1526.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IL17RA</text>
+<rect x="2345" y="1540" width="70" height="30" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="2380" y="1561.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IL17RC</text>
 <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
 <polyline points="1953.5,1699.5 1953.5,1603.5"/>
 <polyline points="2990.13,1394.48 2990,3147 4749,3151.83"/>
@@ -824,10 +832,10 @@
 <polyline points="4727.72,1264.6 4474.16,1281.21"/>
 <polyline points="5162.3,525.7 1809.8,525.72 1809.8,811.1"/>
 <polyline points="1825.22,956.89 1896.55,1258.98"/>
-<polyline points="6748.92,4319.54 6705.28,4302.93"/>
+<polyline points="6825.3,4362.87 7085.08,4589.94"/>
 <polyline points="7049.07,1079.31 6861.77,1103.97"/>
 <polyline points="2558.38,1165.24 2565.92,1177.02"/>
-<polyline points="6705.31,848.9 6637.97,719.15 5381,722.85"/>
+<polyline points="6709.93,863.95 6735.31,1080.08"/>
 <polyline points="4192.03,2404.91 4305.6,2493.25"/>
 <polyline points="7260.31,1343.63 7254.6,1347.68"/>
 <polyline points="4896.5,1669.65 4877.94,1656.39"/>
@@ -837,7 +845,6 @@
 <polyline points="4446.04,922.28 4450.63,916.56"/>
 <polyline points="6500.5,2218.35 6491.71,2212.07"/>
 <polyline points="6452.31,2206.44 6522.23,2471.57"/>
-<polyline points="2570.46,1087.37 2873.13,1055.35"/>
 <polyline points="2507.6,907.62 2874.15,1028.33"/>
 <polyline points="5283,818 2936,818 2936,1017.7"/>
 <polyline points="2983.97,1053.07 3234.39,1075.87"/>
@@ -847,13 +854,17 @@
 <polyline points="4451,3245.8 4580,3245.26"/>
 <polyline points="4690.84,3235.37 5684.23,3035.31"/>
 <polyline points="6852.31,783.78 6752.37,1198.64"/>
-<polyline points="6849.98,783.6 6756.63,1069.14"/>
-<polyline points="4850.77,1109.1 4849.9,924.18 3535.4,925.15"/>
-<polyline points="3462.4,859.7 3462.4,770.03 5268,770"/>
-<polyline points="4850.55,1165.1 4833.91,2498.52 6725.4,2498.5"/>
-<polyline points="6790.4,2498.5 6752.99,2498.5 6753,1652"/>
+<polyline points="6788.4,2517 6788.4,2504"/>
+<polyline points="6836.4,2461 7195,2461 7195,1442"/>
 <polyline points="4727.89,1248.01 4444.17,1185.25"/>
-<polyline points="6859,663 6859,713"/>
+<polyline points="2888.01,1577.2 2447.96,1551.47"/>
+<polyline points="2427.56,1496.25 2556.9,1356.86"/>
+<polyline points="2537.68,1166.06 2576.62,1278.27"/>
+<polyline points="2622.81,1295.05 2901.93,1075.5"/>
+<polyline points="3018,1720 3062,1720"/>
+<polyline points="3125,1692 3125,1160 4195,1160"/>
+<polyline points="6740.4,2545 3452.4,2545 3452.4,930.7"/>
+<polyline points="3452.4,859.7 3452.4,770 5268,770"/>
 <polyline points="7133.09,1345.75 7135.71,1347.63"/>
 <polyline points="7050.6,1321.1 5240.01,1321.05 5240,1679"/>
 <polyline points="6193,1560 6212,1560"/>
@@ -878,6 +889,8 @@
 <polyline points="7362.87,2503.23 7395.74,2451.06"/>
 <polyline points="7420.58,2439.6 7420.04,3208"/>
 <polyline points="6776.06,1726.04 6207.24,1576.38"/>
+<polyline points="7518.1,2402.3 7518.13,3260 7443,3260"/>
+<polyline points="7581.78,2281.83 7536.8,2229.54"/>
 </g>
 <polygon points="1953.5,1580.5 1958.5,1595.5 1948.5,1595.5" fill="#000"/>
 <polygon points="1953.5,1585.3 1955.5,1592.5 1951.5,1592.5" fill="#fff"/>
@@ -1770,16 +1783,16 @@
 <polygon points="1901.83,1281.36 1893.52,1267.91 1903.25,1265.61" fill="#000"/>
 <polygon points="1900.73,1276.69 1897.13,1270.14 1901.02,1269.22" fill="#fff"/>
 <polyline points="1823.38,949.1 1898.39,1266.76" fill="none" stroke="#e69500" stroke-width="1"/>
-<line x1="6699.94" y1="4294.48" x2="6695.67" y2="4305.7" stroke="#000"/>
-<polyline points="6756.4,4322.38 6697.8,4300.09" fill="none" stroke="#e69500" stroke-width="1"/>
+<line x1="7087.15" y1="4599.72" x2="7095.05" y2="4590.69" stroke="#000"/>
+<polyline points="6819.28,4357.6 7091.1,4595.2" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="6838.97,1106.97 6853.19,1100.06 6854.49,1109.97" fill="#000"/>
 <polygon points="6843.73,1106.34 6850.61,1103.42 6851.13,1107.39" fill="#fff"/>
 <polyline points="7057,1078.27 6853.84,1105.01" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="2578.31,1196.4 2566.02,1186.46 2574.44,1181.07" fill="#000"/>
 <polygon points="2575.72,1192.36 2570.16,1187.37 2573.53,1185.21" fill="#fff"/>
 <polyline points="2554.07,1158.5 2570.23,1183.76" fill="none" stroke="#e69500" stroke-width="1"/>
-<line x1="5372.98" y1="716.87" x2="5373.02" y2="728.87" stroke="#000"/>
-<polyline points="6709,856 6637.97,719.15 5373,722.87" fill="none" stroke="#e69500" stroke-width="1"/>
+<line x1="6730.29" y1="1088.72" x2="6742.2" y2="1087.32" stroke="#000"/>
+<polyline points="6709,856 6736.24,1088.02" fill="none" stroke="#e69500" stroke-width="1"/>
 <line x1="4308.23" y1="2502.89" x2="4315.6" y2="2493.42" stroke="#000"/>
 <polyline points="4185.71,2400 4311.92,2498.16" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="7235.85,1361 7245.18,1348.24 7250.97,1356.39" fill="#000"/>
@@ -1804,9 +1817,6 @@
 <polygon points="6528.09,2493.81 6519.44,2480.58 6529.1,2478.03" fill="#000"/>
 <polygon points="6526.87,2489.17 6523.1,2482.72 6526.97,2481.7" fill="#fff"/>
 <polyline points="6450.27,2198.7 6524.27,2479.31" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="2896,1052.93 2881.61,1059.48 2880.56,1049.54" fill="#000"/>
-<polygon points="2891.23,1053.44 2884.28,1056.18 2883.86,1052.2" fill="#fff"/>
-<polyline points="2562.5,1088.21 2881.08,1054.51" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="2896,1035.53 2880.19,1035.58 2883.32,1026.09" fill="#000"/>
 <polygon points="2891.44,1034.03 2883.98,1033.67 2885.23,1029.87" fill="#fff"/>
 <polyline points="2500,905.12 2881.75,1030.84" fill="none" stroke="#e69500" stroke-width="1"/>
@@ -1832,27 +1842,38 @@
 <polygon points="6746.99,1221 6745.64,1205.25 6755.36,1207.59" fill="#000"/>
 <polygon points="6748.11,1216.33 6747.85,1208.87 6751.74,1209.8" fill="#fff"/>
 <polyline points="6854.18,776 6750.5,1206.42" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="6749.48,1091 6749.39,1075.19 6758.89,1078.3" fill="#000"/>
-<polygon points="6750.97,1086.44 6751.31,1078.97 6755.11,1080.22" fill="#fff"/>
-<polyline points="6852.46,776 6754.14,1076.74" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="3512.4,925.16 3527.4,920.15 3527.4,930.15" fill="#000"/>
-<polygon points="3517.2,925.16 3524.4,923.15 3524.4,927.15" fill="#fff"/>
-<polyline points="4850.81,1117.1 4849.9,924.18 3527.4,925.15" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="5291,770 5276,775 5276,765" fill="#000"/>
-<polygon points="5286.2,770 5279,772 5279,768" fill="#fff"/>
-<polyline points="3462.4,867.7 3462.4,770.03 5276,770" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="6748.4,2498.5 6733.4,2503.5 6733.4,2493.5" fill="#000"/>
-<polygon points="6743.6,2498.5 6736.4,2500.5 6736.4,2496.5" fill="#fff"/>
-<polyline points="4850.65,1157.1 4833.91,2498.52 6733.4,2498.5" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="6753,1629 6758,1644 6748,1644" fill="#000"/>
-<polygon points="6753,1633.8 6755,1641 6751,1641" fill="#fff"/>
-<polyline points="6798.4,2498.5 6752.99,2498.5 6753,1644" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="6788.4,2481 6793.4,2496 6783.4,2496" fill="#000"/>
+<polygon points="6788.4,2485.8 6790.4,2493 6786.4,2493" fill="#fff"/>
+<polyline points="6788.4,2525 6788.4,2496" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="7195,1419 7200,1434 7190,1434" fill="#000"/>
+<polygon points="7195,1423.8 7197,1431 7193,1431" fill="#fff"/>
+<polyline points="6828.4,2461 7195,2461 7195,1434" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="4421.71,1180.29 4437.44,1178.64 4435.28,1188.41" fill="#000"/>
 <polygon points="4426.4,1181.32 4433.86,1180.93 4433,1184.83" fill="#fff"/>
 <polyline points="4735.7,1249.74 4436.36,1183.53" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="6859,736 6854,721 6864,721" fill="#000"/>
-<polygon points="6859,731.2 6857,724 6861,724" fill="#fff"/>
-<polyline points="6859,655 6859,721" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="2425,1550.13 2440.27,1546.01 2439.68,1556" fill="#000"/>
+<polygon points="2429.79,1550.41 2437.1,1548.83 2436.86,1552.83" fill="#fff"/>
+<polyline points="2896,1577.66 2439.97,1551.01" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="2572.54,1340 2566,1354.4 2558.67,1347.59" fill="#000"/>
+<polygon points="2569.28,1343.52 2565.85,1350.16 2562.91,1347.44" fill="#fff"/>
+<polyline points="2422.11,1502.11 2562.34,1351" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="2584.16,1300 2574.52,1287.47 2583.97,1284.19" fill="#000"/>
+<polygon points="2582.59,1295.47 2578.34,1289.32 2582.11,1288.01" fill="#fff"/>
+<polyline points="2535.06,1158.5 2579.24,1285.83" fill="none" stroke="#e69500" stroke-width="1"/>
+<line x1="2911.93" y1="1075.27" x2="2904.51" y2="1065.84" stroke="#000"/>
+<polyline points="2616.53,1300 2908.22,1070.55" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="3085,1720 3070,1725 3070,1715" fill="#000"/>
+<polygon points="3080.2,1720 3073,1722 3073,1718" fill="#fff"/>
+<polyline points="3010,1720 3070,1720" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="4218,1160 4203,1165 4203,1155" fill="#000"/>
+<polygon points="4213.2,1160 4206,1162 4206,1158" fill="#fff"/>
+<polyline points="3125,1700 3125,1160 4203,1160" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="3452.4,907.7 3457.4,922.7 3447.4,922.7" fill="#000"/>
+<polygon points="3452.4,912.5 3454.4,919.7 3450.4,919.7" fill="#fff"/>
+<polyline points="6748.4,2545 3452.4,2545 3452.4,922.7" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="5291,770 5276,775 5276,765" fill="#000"/>
+<polygon points="5286.2,770 5279,772 5279,768" fill="#fff"/>
+<polyline points="3452.4,867.7 3452.4,770 5276,770" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="7154.43,1361 7139.31,1356.35 7145.13,1348.21" fill="#000"/>
 <polygon points="7150.52,1358.21 7143.5,1355.65 7145.83,1352.4" fill="#fff"/>
 <polyline points="7126.58,1341.1 7142.22,1352.28" fill="none" stroke="#1f6fd1" stroke-width="1"/>
@@ -1922,4 +1943,10 @@
 <polygon points="6185,1570.52 6200.78,1569.51 6198.23,1579.18" fill="#000"/>
 <polygon points="6189.64,1571.75 6197.11,1571.64 6196.1,1575.51" fill="#fff"/>
 <polyline points="6783.8,1728.08 6199.51,1574.34" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<polygon points="7420,3260 7435,3255 7435,3265" fill="#000"/>
+<polygon points="7424.8,3260 7432,3258 7432,3262" fill="#fff"/>
+<polyline points="7518.1,2394.3 7518.13,3260 7435,3260" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<polygon points="7521.8,2212.1 7535.37,2220.21 7527.79,2226.73" fill="#000"/>
+<polygon points="7524.93,2215.74 7531.14,2219.89 7528.11,2222.5" fill="#fff"/>
+<polyline points="7587,2287.9 7531.58,2223.47" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 </svg>

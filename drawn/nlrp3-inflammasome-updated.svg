@@ -243,8 +243,8 @@
 <text x="2578" y="1354" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">PLIN2</text>
 <circle cx="3705" cy="805" r="11.25" fill="#66b2ff" stroke="#000"/>
 <line x1="3711" y1="790" x2="3699" y2="820" stroke="#000"/>
-<polygon points="1895,1105 2147.7,1105 2162.7,1120 2147.7,1135 1895,1135 1880,1120" fill="#ebedde" stroke="#000"/>
-<text x="2021.35" y="1124" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">MyD88-dependent TLR4 signaling pathway</text>
+<polygon points="1895,1105 2065,1105 2080,1120 2065,1135 1895,1135 1880,1120" fill="#66b2ff" stroke="#000"/>
+<text x="1980" y="1124" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">TLR4 signaling pathway</text>
 <circle cx="2205" cy="1065" r="11.25" fill="#66b2ff" stroke="#000"/>
 <line x1="2211" y1="1050" x2="2199" y2="1080" stroke="#000"/>
 <rect x="2165" y="1215" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
@@ -429,7 +429,7 @@
 <polyline points="2424.43,1332.06 2570.62,1306.38"/>
 <polyline points="3143.3,901.3 2585.06,1290.43"/>
 <polyline points="2205,1084.25 2205,1193"/>
-<polyline points="2133.84,1136.14 2192.08,1144.49"/>
+<polyline points="2077.51,1131.36 2192.05,1144.7"/>
 <polyline points="2088,1342.5 2268,1342.5"/>
 <polyline points="2199.57,1262.85 2186.44,1330.14"/>
 <polyline points="3810,762 3810,697"/>
@@ -696,8 +696,8 @@
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(2578.5,1300) rotate(0)"/><text x="2578.5" y="1303" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" text-anchor="middle">?</text>
 <polygon points="2205,1215 2200,1200 2210,1200" fill="#000"/>
 <polyline points="2205,1076.25 2205,1201" fill="none" stroke="#1f6fd1" stroke-width="1"/>
-<polygon points="2200,1145.62 2191.51,1148.45 2192.65,1140.53" fill="#fff" stroke="#000"/>
-<polyline points="2125.93,1135 2192.08,1144.49" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<polygon points="2200,1145.62 2191.59,1148.67 2192.52,1140.73" fill="#fff" stroke="#000"/>
+<polyline points="2069.57,1130.43 2192.05,1144.7" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(2205,1145.62) rotate(90)"/><text x="2205" y="1148.62" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" text-anchor="middle">//</text>
 <polygon points="2290,1342.5 2275,1347.5 2275,1337.5" fill="#000"/>
 <polyline points="2080,1342.5 2276,1342.5" fill="none" stroke="#1f6fd1" stroke-width="1"/>

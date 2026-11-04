@@ -3828,11 +3828,6 @@ RecName: Full=Microtubule-associated protein tau; AltName: Full=Neurofibrillary 
 <rdf:li rdf:resource="urn:miriam:pubmed:38575959"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:20664788"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
 </rdf:Description>
 </rdf:RDF>
 </annotation>

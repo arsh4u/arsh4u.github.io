@@ -194,7 +194,7 @@
    ],
    "summary": "Suppressor of cytokine signalling 1 limits interferon signalling in glia. SOCS1 expressed in oligodendrocytes (PLP/SOCS1 mice) lowers their IFN-gamma responsiveness and changes the course of EAE. In primary mouse astrocytes interferon induces SOCS1, and SOCS1 knockdown raises interferon-induced CXCL10, CCL2 and CCL5.",
    "links": [
-    "Inhibits IFN-gamma receptor signalling in oligodendrocytes (top-level map).",
+    "Inhibits JAK-STAT signalling in oligodendrocytes (top-level map): SOCS1 acts on the JAK/STAT1 step below the IFN-gamma receptor, not on the receptor (Balabanov 2006, read in full).",
     "Its transcription is stimulated by JAK-STAT signalling, and it inhibits JAK-STAT signalling in astrocytes, drawn as the map draws SOCS3 (Astrocyte signaling); it acts at the receptor and JAKs, not on the CXCL10 gene."
    ],
    "refs": [
@@ -314,7 +314,7 @@
    ],
    "summary": "Progranulin restrains microglial activation. Microglia-specific progranulin deletion in mice raises NF-kB activity and TNF, and progranulin-deficient microglia make more C1q and C3 and prune inhibitory synapses. Progranulin-deficient mice also show more microgliosis and neuron loss after MPTP.",
    "links": [
-    "Lowers TNF production by microglia (top-level map).",
+    "Lowers NF-kB signalling in microglia (top-level map): microglial progranulin loss raises TNF-induced NF-kB activity, which needs microglial IKBKB (Krabbe 2017, read in full); TNF itself was not measured.",
     "Progranulin loss raises C1q production; the mechanism is not established, so the step is an unknown process (?) (Microglial phagocytosis)."
    ],
    "refs": [
@@ -368,9 +368,9 @@
     "mapt-cleavage-updated",
     "nlrp3-inflammasome-updated"
    ],
-   "summary": "Cathepsin D is the main lysosomal aspartic protease of the brain. Its loss in mice turns microglia and astrocytes reactive, with iNOS and NO-driven neuronal death. Cathepsin D degrades alpha-synuclein and tau, and its deficiency leads to insoluble alpha-synuclein and hyperphosphorylated tau.",
+   "summary": "Cathepsin D is the main lysosomal aspartic protease of the brain. Its loss in mice turns microglia and astrocytes reactive, with iNOS and NO-driven neuronal death. Cathepsin D degrades alpha-synuclein in the neuronal lysosome (dopaminergic neurons) and tau (purified enzyme, neuroblastoma cells, CatD-knockout tauopathy mice), and its deficiency leads to insoluble alpha-synuclein and hyperphosphorylated tau.",
    "links": [
-    "Catalyses the degradation of alpha-synuclein in the phagolysosome (NLRP3 inflammasome).",
+    "Catalyses the degradation of alpha-synuclein in the phagolysosome (NLRP3 inflammasome). The papers show this in neurons, not microglia; where to draw it is open.",
     "Catalyses the degradation of tau in neurons (MAPT cleavage)."
    ],
    "refs": [
@@ -397,10 +397,6 @@
     {
      "pmid": "38575959",
      "cite": "Terron HM et al. 2024, Alzheimers Res Ther."
-    },
-    {
-     "pmid": "20664788",
-     "cite": "Khurana V et al. 2010, PLoS Genet."
     }
    ],
    "disease_note": "",
@@ -436,7 +432,7 @@
    "summary": "The LDL receptor takes up apoE and amyloid-beta in the brain. Brain LDLR overexpression lowers apoE by 50 to 90 percent, speeds amyloid-beta clearance and reduces microgliosis and astrogliosis in APP/PS1 mice, and it suppresses microglial activation in tauopathy mice. In primary astrocytes LDLR drives amyloid-beta uptake and lysosomal degradation.",
    "links": [
     "Lowers extracellular apoE (top-level map). In Astrocyte signaling apoE binds LDLR, and the APOE:LDLR complex is taken up and degraded in lysosomes, one omitted process (//) (Kim 2009, Basak 2012).",
-    "Amyloid-beta 42 binds LDLR on the astrocyte membrane (Basak 2012 gives evidence of direct binding); the complex is taken up and degraded in lysosomes, drawn as one omitted process (//) (APP processing), as the map draws amyloid-beta with LRP1."
+    "Amyloid-beta 42 binds LDLR on the astrocyte membrane, independently of apoE (apoE-knockout astrocytes, Basak 2012); the complex goes to lysosomes, drawn as one omitted process (//) (APP processing)."
    ],
    "refs": [
     {
@@ -820,9 +816,9 @@
    "maps": [
     "chrneuroinflammation46-updated"
    ],
-   "summary": "CXCL12 (SDF-1) is made by CNS endothelium on the abluminal side of the blood-brain barrier, and its level there is raised by IL-1beta and TNF and lowered by IFN-gamma. In mouse EAE it holds CXCR4-positive leukocytes in perivascular cuffs, and keeping it there lowers infiltration and disease. In rat spinal cord models CXCL12 activates astrocytes and microglia. Added as the missing partner of CXCR4, after it passed the bar by itself.",
+   "summary": "CXCL12 (SDF-1) is made by CNS endothelium on the abluminal side of the blood-brain barrier. In primary mouse brain endothelial cells IFN-gamma lowers its transcript, while IL-1beta and IL-17 make the atypical receptor CXCR7 (ACKR3) take abluminal CXCL12 into the cell for lysosomal degradation, so CXCL12 on the brain side falls even though IL-1beta and TNF raise its transcript (Cruz-Orengo 2011, read in full). In mouse EAE abluminal CXCL12 holds CXCR4-positive leukocytes in perivascular cuffs; blocking CXCR7 keeps it there and lowers infiltration and disease. In rat spinal cord models CXCL12 activates astrocytes and microglia. Added as the missing partner of CXCR4, after it passed the bar by itself.",
    "links": [
-    "Induced by IL-1 and TNF receptor signalling and lowered by IFN-gamma in endothelial cells; binds CXCR4 on astrocytes and immune cells (top-level map)."
+    "Lowered by IFN-gamma directly and by CXCR7 (ACKR3), which IL-1 and IL-17 receptor signalling drive, in endothelial cells; raised at the transcript level by TNF receptor signalling; binds CXCR4 on astrocytes and immune cells (top-level map)."
    ],
    "refs": [
     {
@@ -943,7 +939,7 @@
    ],
    "summary": "CXCL13 is made by neurons in the injured spinal cord and hippocampus. In mice it activates NF-kB and drives IL-6, IL-1beta and TNF through its receptor CXCR5, shown by neutralising antibody, knockdown, neuron-specific overexpression and Cxcr5 knockout mice. Waited in the first check because its partner its receptor CXCR5 was not on the map; added together with its receptor CXCR5 once its receptor CXCR5 passed the same bar by itself.",
    "links": [
-    "Binds CXCR5 on neurons (top-level map and Neuron signaling)."
+    "Binds CXCR5 on neurons (top-level map and Neuron signaling) and on astrocytes, where it activates MAPK signalling (ERK) (top-level map, Jiang 2016)."
    ],
    "refs": [
     {
@@ -984,10 +980,11 @@
     "chrneuroinflammation46-updated",
     "neuron-signaling-updated"
    ],
-   "summary": "CXCR5 is induced in hippocampal microglia in mouse sepsis, where its knockout lowers p38 activation, IL-1beta, IL-6 and cognitive deficits, and in primary microglia its knockdown lowers LPS-induced p38 and NF-kB activation. In spinal neurons it is needed for CXCL13 to activate NF-kB. In the retina and after stroke CXCR5 has been reported as protective, so its effect depends on the setting. Added as the missing partner of CXCL13, after it passed the bar by itself.",
+   "summary": "CXCR5 is induced in hippocampal microglia in mouse sepsis, where its knockout lowers p38 activation, IL-1beta, IL-6 and cognitive deficits, and in primary microglia its knockdown lowers LPS-induced p38 and NF-kB activation. In primary microglia NF-kB and STAT3 activation sit downstream of p38, and CXCR5 knockdown or knockout also raises autophagy. In spinal neurons it is needed for CXCL13 to activate NF-kB. In the retina and after stroke CXCR5 has been reported as protective, so its effect depends on the setting. Added as the missing partner of CXCL13, after it passed the bar by itself.",
    "links": [
     "Binds CXCL13 on neurons and activates NF-kB signalling (top-level map and Neuron signaling).",
-    "On microglia CXCR5 drives MAPK and NF-kB signalling (top-level map); CXCL13, its only known ligand (Legler 1998), is drawn binding it there too, though the microglial study used LPS without adding CXCL13."
+    "On microglia CXCR5 drives MAPK signalling (p38), which drives NF-kB signalling (drawn as the existing MAPK to NF-kB arc; Shen 2021 read in full).",
+    "On astrocytes CXCL13 activates CXCR5, which drives ERK (MAPK signalling) and astrocyte activation in the spinal cord after nerve ligation (Jiang 2016). No paper shows CXCL13 acting on microglial CXCR5, so that arc was removed."
    ],
    "refs": [
     {
@@ -1028,10 +1025,10 @@
     "astrocyte-signaling-updated",
     "chrneuroinflammation46-updated"
    ],
-   "summary": "Vitronectin, a blood and matrix protein, leaks into the brain after cerebral ischaemia. In female mice its knockout reduces microglia and macrophage activation, leukocyte infiltration and striatal IL-6, and IL-6 reverses the protection. Vitronectin raises IL-6 through alphaV integrins and FAK in astrocytes. Waited in the first check because its partner its receptor, integrin alphaVbeta5 was not on the map; added together with its receptor, integrin alphaVbeta5 once its receptor, integrin alphaVbeta5 passed the same bar by itself.",
+   "summary": "Vitronectin, a blood and matrix protein, leaks into the brain after cerebral ischaemia. In female mice its knockout reduces microglia and macrophage activation, leukocyte infiltration and striatal IL-6, and IL-6 reverses the protection. In females astrocyte-specific FAK deletion lowers stroke-induced striatal IL-6 by 72%, and a FAK inhibitor gives no extra protection in vitronectin knockouts (Jia 2022); in the subventricular zone the same group found astrocytic FAK lowering IL-6 (Jia 2019), so the sign may depend on the region. The integrin step rests on C6 glioma cells (Keasey 2018). Primary mouse microglia adhere to vitronectin through alphaV integrins and respond with activation markers, MMP-9 and phagocytosis; alphaVbeta3 and alphaVbeta5 are redundant with alphaVbeta1 and alphaVbeta8 (Welser-Alves 2011).",
    "links": [
-    "Binds integrin alphaVbeta5 on astrocytes and microglia (top-level map).",
-    "In astrocytes the bound integrin activates FAK (PTK2), drawn as FAK phosphorylated at Y397, its autophosphorylation site: dominant-negative FAK Y397F lowers injury-induced IL-6 and LIF (Keasey 2018). Active FAK leads to IL6 transcription by steps not shown, drawn as an omitted transcription (//) beside the existing one (Astrocyte signaling)."
+    "Binds alphaV integrins (drawn as ITGAV, the shared alpha chain) on astrocytes, raising IL6 in female mice, and on microglia, promoting phagocytosis (top-level map).",
+    "In astrocytes vitronectin binds ITGAV; the complex activates FAK (PTK2, phosphorylated at Y397), and active FAK leads to IL6 transcription by steps not shown (//) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1039,67 +1036,83 @@
      "cite": "Jia C et al. 2020, Stroke."
     },
     {
-     "pmid": "29222114",
-     "cite": "Keasey MP et al. 2018, J Cell Sci."
-    },
-    {
      "pmid": "35702047",
      "cite": "Jia C et al. 2022, J Cereb Blood Flow Metab."
     },
     {
-     "pmid": "17548654",
-     "cite": "Milner R et al. 2007, J Immunol."
+     "pmid": "31678139",
+     "cite": "Jia C et al. 2019, Exp Neurol."
     },
     {
-     "pmid": "10564645",
-     "cite": "Milner R et al. 1999, J Cell Sci."
-    }
-   ],
-   "disease_note": "",
-   "diseases": []
-  },
-  {
-   "name": "ITGAV:ITGB5",
-   "full_name": "integrin alphaVbeta5",
-   "round": 1,
-   "colour": "#ffcc00",
-   "maps": [
-    "astrocyte-signaling-updated",
-    "chrneuroinflammation46-updated"
-   ],
-   "summary": "Integrin alphaVbeta5 is the main alphaV integrin of microglia and astrocytes, and alphaV integrins are the main vitronectin receptors of microglia. After intracerebral haemorrhage in mice alphaVbeta5 sits on microglia and macrophages, and its activation raises AMPK signalling and lowers IL-1beta and TNF, effects removed by the integrin inhibitor cilengitide (shown with irisin as ligand). Other alphaV integrins can take over in microglia lacking beta3 and beta5. Added as the missing partner of vitronectin, after it passed the bar by itself.",
-   "links": [
-    "Activates AMPK signalling in microglia; with vitronectin raises IL6 in astrocytes (top-level map and Astrocyte signaling)."
-   ],
-   "refs": [
-    {
-     "pmid": "35392928",
-     "cite": "Wang Y et al. 2022, J Neuroinflammation."
-    },
-    {
-     "pmid": "17548654",
-     "cite": "Milner R et al. 2007, J Immunol."
+     "pmid": "29222114",
+     "cite": "Keasey MP et al. 2018, J Cell Sci."
     },
     {
      "pmid": "22074485",
      "cite": "Welser-Alves JV et al. 2011, J Neuroinflammation."
     },
     {
-     "pmid": "18985734",
-     "cite": "Milner R et al. 2009, Glia."
+     "pmid": "17548654",
+     "cite": "Milner R et al. 2007, J Immunol."
     }
    ],
    "disease_note": "",
-   "diseases": [
+   "diseases": []
+  },
+  {
+   "name": "ACKR3",
+   "full_name": "",
+   "round": 1,
+   "colour": "#ffcc00",
+   "maps": [
+    "chrneuroinflammation46-updated"
+   ],
+   "summary": "CXCR7 (ACKR3) is an atypical chemokine receptor on CNS endothelium that binds CXCL12 and internalises it. In mouse EAE it is raised on the spinal cord endothelium; IL-1beta and IL-17 raise CXCR7-dependent CXCL12 uptake into lysosomes of primary brain endothelial cells, and the CXCR7 antagonist CCX771 keeps abluminal CXCL12, lowers leukocyte entry into the parenchyma and lessens disease. Added (not on the list) as the step that explains how IL-1beta lowers abluminal CXCL12.",
+   "links": [
+    "Driven by IL-1 and IL-17 receptor signalling and lowers CXCL12 on the abluminal side in endothelial cells (top-level map); IL-17A and its receptor IL17RA:IL17RC are drawn again on the endothelium for this."
+   ],
+   "refs": [
     {
-     "disease": "PD",
-     "pmid": "42185903",
-     "model": "Microglia and a PD/alpha-synuclein mouse model with cognitive impairment; integrin alphaV/beta5-FAK axis, irisin as ligand",
-     "shows": "Signalling through microglial integrin alphaVbeta5 drives phagocytic uptake and lysosomal clearance of alpha-synuclein and lowers alpha-synuclein burden, the alphaVbeta5 phagocytic role the map draws.",
-     "direction": "protective",
-     "cite": "Liu Y et al. 2026, J Neuroinflammation."
+     "pmid": "21300915",
+     "cite": "Cruz-Orengo L et al. 2011, J Exp Med."
     }
-   ]
+   ],
+   "disease_note": "",
+   "diseases": []
+  },
+  {
+   "name": "ITGAV",
+   "full_name": "",
+   "round": 1,
+   "colour": "#ffcc00",
+   "maps": [
+    "astrocyte-signaling-updated",
+    "chrneuroinflammation46-updated"
+   ],
+   "summary": "The alphaV integrin chain pairs with beta1, beta3, beta5 and beta8; on primary mouse microglia these alphaV integrins are the main vitronectin receptors and act redundantly (Welser-Alves 2011). Added as the missing partner of vitronectin.",
+   "links": [
+    "Binds vitronectin on astrocytes and microglia (top-level map, Astrocyte signaling)."
+   ],
+   "refs": [
+    {
+     "pmid": "22074485",
+     "cite": "Welser-Alves JV et al. 2011, J Neuroinflammation."
+    },
+    {
+     "pmid": "17548654",
+     "cite": "Milner R et al. 2007, J Immunol."
+    },
+    {
+     "pmid": "35702047",
+     "cite": "Jia C et al. 2022, J Cereb Blood Flow Metab."
+    },
+    {
+     "pmid": "29222114",
+     "cite": "Keasey MP et al. 2018, J Cell Sci."
+    }
+   ],
+   "disease_note": "",
+   "diseases": []
   },
   {
    "name": "GPNMB",
@@ -1347,10 +1360,10 @@
     "chrneuroinflammation46-updated",
     "nlrp3-inflammasome-updated"
    ],
-   "summary": "Cholesterol 25-hydroxylase makes 25-hydroxycholesterol. In microglia its knockout lowers IL-1beta after LPS and blocks NLRP3 inflammasome assembly, and its deletion rescues tau neurodegeneration. The product 25-HC is anti-inflammatory in peripheral macrophages, so the sign is microglia-specific.",
+   "summary": "Cholesterol 25-hydroxylase makes 25-hydroxycholesterol. In primary mouse microglia TLR4 signalling induces it strongly; 25-HC raises mature IL-1beta and IL-1alpha after priming, without changing pro-IL-1beta, NLRP3 or ASC, acting upstream of K+ efflux and caspase-1 (ASC specks; the inflammasome is not shown to be NLRP3), more strongly with apoE4 (Wong 2020, read in full). Its deletion rescues tau neurodegeneration. 25-HC is anti-inflammatory in peripheral macrophages, so the sign is microglia-specific.",
    "links": [
-    "Induced by TLR4 signalling and promotes NLRP3 inflammasome activation in microglia (top-level map).",
-    "Made under TLR4 signalling (omitted process, //); converts cholesterol to 25-hydroxycholesterol, which promotes NLRP3 inflammasome activation by a mechanism not shown (?) (NLRP3 inflammasome)."
+    "Induced by TLR4 signalling and promotes inflammasome activation in microglia (top-level map).",
+    "Made under TLR4 signalling (omitted process, //; the adaptor was not tested, so the box is TLR4 signalling, not the MyD88-dependent one); converts cholesterol to 25-hydroxycholesterol, which promotes inflammasome activation by a mechanism not shown (?) upstream of K+ efflux and caspase-1 (NLRP3 inflammasome)."
    ],
    "refs": [
     {
@@ -1425,18 +1438,14 @@
    "maps": [
     "neuron-signaling-updated"
    ],
-   "summary": "Z-DNA binding protein 1 is a sensor that engages RIPK3. In neurons it is needed to restrict neuroinvasive Zika virus, with loss of RIPK3 phosphorylation in its absence, and it engages RIPK3 in microglia.",
+   "summary": "Z-DNA binding protein 1 is a sensor that engages RIPK3. In mouse neurons it is needed to restrict neuroinvasive Zika and West Nile virus: ZBP1 loss lowers RIPK3 phosphorylation, and RIPK3 drives IRF1-dependent IRG1 (ACOD1) and itaconate without killing the neuron; MLKL and caspase-8 are dispensable (Daniels 2019, read in full).",
    "links": [
-    "Binds RIPK3 (RHIM interaction) into a ZBP1:RIPK3 necrosome, which phosphorylates MLKL (Neuron signaling)."
+    "Binds RIPK3 (RHIM interaction) into ZBP1:RIPK3 (Neuron signaling). The MLKL phosphorylation drawn earlier came from a BV2 microglia virus study and was removed: in neurons the complex does not act through MLKL."
    ],
    "refs": [
     {
      "pmid": "30635240",
      "cite": "Daniels BP et al. 2019, Immunity."
-    },
-    {
-     "pmid": "41098523",
-     "cite": "Liu Y et al. 2025, Transbound Emerg Dis."
     }
    ],
    "disease_note": "",
@@ -1773,7 +1782,7 @@
    "summary": "The melanocortin-4 receptor is the alpha-MSH receptor on astrocytes and neurons. Astrocyte-specific MC4R knockdown in EAE and MC4R knockout with cell-specific rescue show that it lowers NF-kB signalling and iNOS. Added as the missing partner of POMC, after it passed the bar by itself.",
    "links": [
     "Binds alpha-MSH and lowers NF-kB signalling in astrocytes (top-level map).",
-    "Binds alpha-MSH on astrocytes; the complex lowers NOS2 transcription by steps not shown (//) (Astrocyte signaling)."
+    "Binds alpha-MSH on astrocytes (MC4R-overexpressing primary astrocytes, astrocyte-specific knockdown, Wang 2025); the complex lowers NOS2 transcription by steps not shown (//) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1817,7 +1826,7 @@
    "summary": "CXCR6 is the CXCL16 receptor on CD8 T cells. In 5xFAD mice its loss removes brain CD8 T cells, raises amyloid and worsens memory, with more microglial TNF. Added as the missing partner of CXCL16, after it passed the bar by itself.",
    "links": [
     "Binds CXCL16 and drives CD8 T cell accumulation (top-level map).",
-    "On astrocytes binds CXCL16; the complex raises CCL2 transcription by a mechanism not shown (?) (Astrocyte signaling)."
+    "On astrocytes binds CXCL16 (shown with cxcr6 gfp/gfp astrocyte cocultures, Rosito 2012); the complex raises CCL2 release by a mechanism not shown (?) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1827,6 +1836,10 @@
     {
      "pmid": "40328251",
      "cite": "Ge X et al. 2025, Neuron."
+    },
+    {
+     "pmid": "22378888",
+     "cite": "Rosito M et al. 2012, J Neurosci."
     }
    ],
    "disease_note": "",
@@ -1908,7 +1921,7 @@
     "chrneuroinflammation46-updated",
     "neuron-signaling-updated"
    ],
-   "summary": "CCR5 is a CCL4 receptor on neurons and microglia. On neurons it blocks autophagy through mTORC1 in Huntington and tau models, rescued by maraviroc; on microglia it drives synapse engulfment. It is protective in some other CNS models, so the sign depends on the setting. Added as the missing partner of CCL4, after it passed the bar by itself.",
+   "summary": "CCR5 is a receptor for CCL3, CCL4 and CCL5. On neurons, microglial chemokines bind it and block autophagy through mTORC1 in Huntington and tau models, rescued by maraviroc (Festa 2023). On microglia CCL4 binding CCR5 drives engulfment of excitatory synapses in rats with chronic kidney disease (Cao 2026, male rats). It is protective in some other CNS models, so the sign depends on the setting. Added as the missing partner of CCL4, after it passed the bar by itself.",
    "links": [
     "Binds CCL4 and drives synapse loss in microglia (top-level map).",
     "In neurons CCL4 binds CCR5; the complex activates mTOR by steps not shown (//), and active mTOR blocks autophagy (Neuron signaling)."
@@ -1946,6 +1959,48 @@
      "cite": "Choi DY et al. 2012, Neurobiol Dis."
     }
    ]
+  },
+  {
+   "name": "AXL",
+   "full_name": "AXL receptor tyrosine kinase",
+   "round": 2,
+   "colour": "#66b2ff",
+   "maps": [
+    "chrneuroinflammation46-updated"
+   ],
+   "summary": "The TAM receptor AXL, which recognises phosphatidylserine, is on more than 90% of the CD9-high synapse-engulfing microglia in the mouse thalamus after cortical injury. The AXL inhibitor bemcentinib (R428) lowered synapse engulfment and raised glutamatergic synapse numbers without changing the number of these microglia (in vivo, mostly female mice).",
+   "links": [
+    "Drives synapse loss from microglia (top-level map)."
+   ],
+   "refs": [
+    {
+     "pmid": "42425959",
+     "cite": "Matoba K et al. 2026, Nat Commun."
+    }
+   ],
+   "disease_note": "",
+   "diseases": []
+  },
+  {
+   "name": "FCGR3A",
+   "full_name": "Fc gamma receptor IIIa",
+   "round": 2,
+   "colour": "#66b2ff",
+   "maps": [
+    "chrneuroinflammation46-updated"
+   ],
+   "summary": "After cortical injury, blood-brain barrier leakage lets IgG into the thalamus, and Fc-gamma receptor III on microglia drives the CD9-high synapse-engulfing state: an intra-thalamic FcgammaRIII-blocking antibody lowered CD9-high microglia and PSD95 engulfment, raised glutamatergic synapses and improved memory (mouse, in vivo). Drawn as FCGR3A, the human gene for mouse Fcgr3.",
+   "links": [
+    "Raises CD9 on microglia, which drives synapse loss (top-level map)."
+   ],
+   "refs": [
+    {
+     "pmid": "42425959",
+     "cite": "Matoba K et al. 2026, Nat Commun."
+    }
+   ],
+   "disease_note": "",
+   "diseases": []
   }
  ]
 }

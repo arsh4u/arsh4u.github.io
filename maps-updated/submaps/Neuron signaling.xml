@@ -10385,14 +10385,6 @@
 </celldesigner:linkTarget>
 <celldesigner:line width="1.0" color="ff000000"/>
 </celldesigner:modification>
-<celldesigner:modification type="CATALYSIS" modifiers="s_add8" aliases="csa_add9" targetLineIndex="-1,3">
-<celldesigner:connectScheme connectPolicy="direct">
-<celldesigner:listOfLineDirection>
-<celldesigner:lineDirection index="0" value="unknown"/>
-</celldesigner:listOfLineDirection>
-</celldesigner:connectScheme>
-<celldesigner:line width="1.0" color="ff1f6fd1"/>
-</celldesigner:modification>
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -10405,11 +10397,6 @@
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:30815534"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:41098523"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
 </rdf:Description>
@@ -10438,13 +10425,6 @@
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>csa22</celldesigner:alias>
-</celldesigner:extension>
-</annotation>
-</modifierSpeciesReference>
-<modifierSpeciesReference metaid="CDMT00220" species="s_add8">
-<annotation>
-<celldesigner:extension>
-<celldesigner:alias>csa_add9</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </modifierSpeciesReference>
@@ -10667,11 +10647,6 @@
 <rdf:li rdf:resource="urn:miriam:pubmed:30635240"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:41098523"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
 </rdf:Description>
 </rdf:RDF>
 </annotation>
@@ -10732,7 +10707,7 @@
 <rdf:Description rdf:about="#re_add52">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:42178562"/>
+<rdf:li rdf:resource="urn:miriam:pubmed:37105172"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
 </rdf:Description>

@@ -1166,7 +1166,7 @@
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add43" name="ITGAV">
+<celldesigner:species id="s_add40" name="OSMR">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1176,14 +1176,31 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add41</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add38</celldesigner:complexSpecies>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add42</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:annotation>
+</celldesigner:species>
+<celldesigner:species id="s_add43" name="IL6ST">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body/>
+</html>
+</celldesigner:notes>
+<celldesigner:annotation>
+<celldesigner:complexSpecies>s_add38</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
 <celldesigner:proteinReference>pr_add45</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add46" name="ITGB5">
+<celldesigner:species id="s_add46" name="JAK1">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1193,14 +1210,14 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add41</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add38</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add48</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr93</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add51" name="VTN">
+<celldesigner:species id="s_add48" name="JAK2">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1210,14 +1227,14 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add49</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add38</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add40</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr12</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add53" name="ITGAV">
+<celldesigner:species id="s_add55" name="OSM">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1227,14 +1244,48 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add49</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add53</celldesigner:complexSpecies>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add52</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:annotation>
+</celldesigner:species>
+<celldesigner:species id="s_add57" name="OSMR">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body/>
+</html>
+</celldesigner:notes>
+<celldesigner:annotation>
+<celldesigner:complexSpecies>s_add53</celldesigner:complexSpecies>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add42</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:annotation>
+</celldesigner:species>
+<celldesigner:species id="s_add59" name="IL6ST">
+<celldesigner:notes>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+</head>
+<body/>
+</html>
+</celldesigner:notes>
+<celldesigner:annotation>
+<celldesigner:complexSpecies>s_add53</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
 <celldesigner:proteinReference>pr_add45</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add55" name="ITGB5">
+<celldesigner:species id="s_add61" name="JAK1">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1244,65 +1295,14 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add49</celldesigner:complexSpecies>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add48</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:annotation>
-</celldesigner:species>
-<celldesigner:species id="s_add59" name="OSMR">
-<celldesigner:notes>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title/>
-</head>
-<body/>
-</html>
-</celldesigner:notes>
-<celldesigner:annotation>
-<celldesigner:complexSpecies>s_add57</celldesigner:complexSpecies>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add61</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:annotation>
-</celldesigner:species>
-<celldesigner:species id="s_add62" name="IL6ST">
-<celldesigner:notes>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title/>
-</head>
-<body/>
-</html>
-</celldesigner:notes>
-<celldesigner:annotation>
-<celldesigner:complexSpecies>s_add57</celldesigner:complexSpecies>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add64</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:annotation>
-</celldesigner:species>
-<celldesigner:species id="s_add65" name="JAK1">
-<celldesigner:notes>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title/>
-</head>
-<body/>
-</html>
-</celldesigner:notes>
-<celldesigner:annotation>
-<celldesigner:complexSpecies>s_add57</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add53</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
 <celldesigner:proteinReference>pr93</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add67" name="JAK2">
+<celldesigner:species id="s_add63" name="JAK2">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1312,14 +1312,14 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add57</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add53</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
 <celldesigner:proteinReference>pr12</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add74" name="OSM">
+<celldesigner:species id="s_add82" name="VTN">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1329,14 +1329,14 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add72</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add80</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add71</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr_add76</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
-<celldesigner:species id="s_add76" name="OSMR">
+<celldesigner:species id="s_add84" name="ITGAV">
 <celldesigner:notes>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -1346,61 +1346,10 @@
 </html>
 </celldesigner:notes>
 <celldesigner:annotation>
-<celldesigner:complexSpecies>s_add72</celldesigner:complexSpecies>
+<celldesigner:complexSpecies>s_add80</celldesigner:complexSpecies>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add61</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:annotation>
-</celldesigner:species>
-<celldesigner:species id="s_add78" name="IL6ST">
-<celldesigner:notes>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title/>
-</head>
-<body/>
-</html>
-</celldesigner:notes>
-<celldesigner:annotation>
-<celldesigner:complexSpecies>s_add72</celldesigner:complexSpecies>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add64</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:annotation>
-</celldesigner:species>
-<celldesigner:species id="s_add80" name="JAK1">
-<celldesigner:notes>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title/>
-</head>
-<body/>
-</html>
-</celldesigner:notes>
-<celldesigner:annotation>
-<celldesigner:complexSpecies>s_add72</celldesigner:complexSpecies>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr93</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:annotation>
-</celldesigner:species>
-<celldesigner:species id="s_add82" name="JAK2">
-<celldesigner:notes>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title/>
-</head>
-<body/>
-</html>
-</celldesigner:notes>
-<celldesigner:annotation>
-<celldesigner:complexSpecies>s_add72</celldesigner:complexSpecies>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr12</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr_add79</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:annotation>
 </celldesigner:species>
@@ -2013,45 +1962,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:complexSpeciesAlias>
-<celldesigner:complexSpeciesAlias id="csa_add42" species="s_add41" compartmentAlias="ca1">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4963.8" y="2112.5" w="100.0" h="115.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="100.0" height="115.0"/>
-<celldesigner:singleLine width="2"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:complexSpeciesAlias>
-<celldesigner:complexSpeciesAlias id="csa_add50" species="s_add49" compartmentAlias="ca1">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="5088.2" y="2090.0" w="100.0" h="160.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="100.0" height="160.0"/>
-<celldesigner:singleLine width="2"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:complexSpeciesAlias>
-<celldesigner:complexSpeciesAlias id="csa_add58" species="s_add57" compartmentAlias="ca1">
+<celldesigner:complexSpeciesAlias id="csa_add39" species="s_add38" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3690.0" y="505.0" w="90.0" h="185.0"/>
 <celldesigner:font size="12"/>
@@ -2070,7 +1981,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:complexSpeciesAlias>
-<celldesigner:complexSpeciesAlias id="csa_add73" species="s_add72" compartmentAlias="ca1">
+<celldesigner:complexSpeciesAlias id="csa_add54" species="s_add53" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3580.0" y="465.0" w="90.0" h="225.0"/>
 <celldesigner:font size="12"/>
@@ -2078,6 +1989,25 @@
 <celldesigner:usualView>
 <celldesigner:innerPosition x="0.0" y="0.0"/>
 <celldesigner:boxSize width="90.0" height="225.0"/>
+<celldesigner:singleLine width="2"/>
+<celldesigner:paint color="ffffcc00" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:complexSpeciesAlias>
+<celldesigner:complexSpeciesAlias id="csa_add81" species="s_add80" compartmentAlias="ca1">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="4963.8" y="2112.5" w="100.0" h="115.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="100.0" height="115.0"/>
 <celldesigner:singleLine width="2"/>
 <celldesigner:paint color="ffffcc00" scheme="Color"/>
 </celldesigner:usualView>
@@ -6261,121 +6191,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add39" species="s_add38">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4461.0" y="2236.8" w="80.0" h="40.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="40.0"/>
-<celldesigner:singleLine width="1"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add44" species="s_add43" compartmentAlias="ca1" complexSpeciesAlias="csa_add42">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4973.8" y="2117.5" w="80.0" h="40.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="40.0"/>
-<celldesigner:singleLine width="1"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add47" species="s_add46" compartmentAlias="ca1" complexSpeciesAlias="csa_add42">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="4973.8" y="2162.5" w="80.0" h="40.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="40.0"/>
-<celldesigner:singleLine width="1"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add52" species="s_add51" compartmentAlias="ca1" complexSpeciesAlias="csa_add50">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="5098.2" y="2095.0" w="80.0" h="40.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="40.0"/>
-<celldesigner:singleLine width="1"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add54" species="s_add53" compartmentAlias="ca1" complexSpeciesAlias="csa_add50">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="5098.2" y="2140.0" w="80.0" h="40.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="40.0"/>
-<celldesigner:singleLine width="1"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add56" species="s_add55" compartmentAlias="ca1" complexSpeciesAlias="csa_add50">
-<celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="5098.2" y="2185.0" w="80.0" h="40.0"/>
-<celldesigner:font size="12"/>
-<celldesigner:view state="usual"/>
-<celldesigner:usualView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="40.0"/>
-<celldesigner:singleLine width="1"/>
-<celldesigner:paint color="ffffcc00" scheme="Color"/>
-</celldesigner:usualView>
-<celldesigner:briefView>
-<celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="80.0" height="60.0"/>
-<celldesigner:singleLine width="0.0"/>
-<celldesigner:paint color="3fff0000" scheme="Color"/>
-</celldesigner:briefView>
-<celldesigner:info state="empty" angle="-1.5707963267948966"/>
-</celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add60" species="s_add59" compartmentAlias="ca1" complexSpeciesAlias="csa_add58">
+<celldesigner:speciesAlias id="sa_add41" species="s_add40" compartmentAlias="ca1" complexSpeciesAlias="csa_add39">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3700.0" y="510.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6394,7 +6210,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add63" species="s_add62" compartmentAlias="ca1" complexSpeciesAlias="csa_add58">
+<celldesigner:speciesAlias id="sa_add44" species="s_add43" compartmentAlias="ca1" complexSpeciesAlias="csa_add39">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3700.0" y="550.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6413,7 +6229,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add66" species="s_add65" compartmentAlias="ca1" complexSpeciesAlias="csa_add58">
+<celldesigner:speciesAlias id="sa_add47" species="s_add46" compartmentAlias="ca1" complexSpeciesAlias="csa_add39">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3700.0" y="590.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6432,7 +6248,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add68" species="s_add67" compartmentAlias="ca1" complexSpeciesAlias="csa_add58">
+<celldesigner:speciesAlias id="sa_add49" species="s_add48" compartmentAlias="ca1" complexSpeciesAlias="csa_add39">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3700.0" y="630.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6451,7 +6267,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add70" species="s_add69">
+<celldesigner:speciesAlias id="sa_add51" species="s_add50">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3600.0" y="375.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
@@ -6470,7 +6286,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add75" species="s_add74" compartmentAlias="ca1" complexSpeciesAlias="csa_add73">
+<celldesigner:speciesAlias id="sa_add56" species="s_add55" compartmentAlias="ca1" complexSpeciesAlias="csa_add54">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3590.0" y="470.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6489,7 +6305,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add77" species="s_add76" compartmentAlias="ca1" complexSpeciesAlias="csa_add73">
+<celldesigner:speciesAlias id="sa_add58" species="s_add57" compartmentAlias="ca1" complexSpeciesAlias="csa_add54">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3590.0" y="510.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6508,7 +6324,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add79" species="s_add78" compartmentAlias="ca1" complexSpeciesAlias="csa_add73">
+<celldesigner:speciesAlias id="sa_add60" species="s_add59" compartmentAlias="ca1" complexSpeciesAlias="csa_add54">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3590.0" y="550.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6527,7 +6343,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add81" species="s_add80" compartmentAlias="ca1" complexSpeciesAlias="csa_add73">
+<celldesigner:speciesAlias id="sa_add62" species="s_add61" compartmentAlias="ca1" complexSpeciesAlias="csa_add54">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3590.0" y="590.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6546,7 +6362,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add83" species="s_add82" compartmentAlias="ca1" complexSpeciesAlias="csa_add73">
+<celldesigner:speciesAlias id="sa_add64" species="s_add63" compartmentAlias="ca1" complexSpeciesAlias="csa_add54">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3590.0" y="630.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
@@ -6565,7 +6381,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add85" species="s_add84" compartmentAlias="ca2">
+<celldesigner:speciesAlias id="sa_add66" species="s_add65" compartmentAlias="ca2">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3760.0" y="1360.0" w="70.0" h="25.0"/>
 <celldesigner:font size="12"/>
@@ -6584,7 +6400,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add88" species="s_add87" compartmentAlias="ca2">
+<celldesigner:speciesAlias id="sa_add69" species="s_add68" compartmentAlias="ca2">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="3750.0" y="1450.0" w="90.0" h="25.0"/>
 <celldesigner:font size="12"/>
@@ -6603,7 +6419,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add91" species="s_add90" compartmentAlias="ca2">
+<celldesigner:speciesAlias id="sa_add72" species="s_add71" compartmentAlias="ca2">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="4000.0" y="1445.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
@@ -6622,7 +6438,83 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add94" species="s_add93" compartmentAlias="ca1">
+<celldesigner:speciesAlias id="sa_add75" species="s_add74">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="4770.0" y="2290.0" w="80.0" h="40.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="40.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ffffcc00" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add78" species="s_add77" compartmentAlias="ca1">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="4770.0" y="2150.0" w="80.0" h="40.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="40.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ffffcc00" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add83" species="s_add82" compartmentAlias="ca1" complexSpeciesAlias="csa_add81">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="4973.8" y="2117.5" w="80.0" h="40.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="40.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ffffcc00" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add85" species="s_add84" compartmentAlias="ca1" complexSpeciesAlias="csa_add81">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="4973.8" y="2162.5" w="80.0" h="40.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="40.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ffffcc00" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add87" species="s_add86" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="4900.0" y="1958.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
@@ -6641,7 +6533,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add97" species="s_add96" compartmentAlias="ca1">
+<celldesigner:speciesAlias id="sa_add90" species="s_add89" compartmentAlias="ca1">
 <celldesigner:activity>active</celldesigner:activity>
 <celldesigner:bounds x="4720.0" y="1958.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
@@ -6888,7 +6780,7 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add43" species="s_add42" compartmentAlias="ca1">
+<celldesigner:speciesAlias id="sa_add42" species="s_add41" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
 <celldesigner:bounds x="2632.0" y="2070.0" w="75.0" h="25.0"/>
 <celldesigner:font size="12"/>
@@ -6990,14 +6882,13 @@
 <celldesigner:protein id="pr_add21" name="HIF1A" type="GENERIC"/>
 <celldesigner:protein id="pr_add26" name="BMAL1" type="GENERIC"/>
 <celldesigner:protein id="pr_add31" name="LDLR" type="GENERIC"/>
-<celldesigner:protein id="pr_add40" name="VTN" type="GENERIC"/>
-<celldesigner:protein id="pr_add45" name="ITGAV" type="GENERIC"/>
-<celldesigner:protein id="pr_add48" name="ITGB5" type="GENERIC"/>
-<celldesigner:protein id="pr_add61" name="OSMR" type="GENERIC"/>
-<celldesigner:protein id="pr_add64" name="IL6ST" type="GENERIC"/>
-<celldesigner:protein id="pr_add71" name="OSM" type="GENERIC"/>
-<celldesigner:protein id="pr_add92" name="NR1D1" type="GENERIC"/>
-<celldesigner:protein id="pr_add95" name="PTK2" type="GENERIC">
+<celldesigner:protein id="pr_add42" name="OSMR" type="GENERIC"/>
+<celldesigner:protein id="pr_add45" name="IL6ST" type="GENERIC"/>
+<celldesigner:protein id="pr_add52" name="OSM" type="GENERIC"/>
+<celldesigner:protein id="pr_add73" name="NR1D1" type="GENERIC"/>
+<celldesigner:protein id="pr_add76" name="VTN" type="GENERIC"/>
+<celldesigner:protein id="pr_add79" name="ITGAV" type="GENERIC"/>
+<celldesigner:protein id="pr_add88" name="PTK2" type="GENERIC">
 <celldesigner:listOfModificationResidues>
 <celldesigner:modificationResidue angle="1.5707963267948966" id="rs1" name="Y397" side="none"/>
 </celldesigner:listOfModificationResidues>
@@ -7041,7 +6932,7 @@
 <celldesigner:gene id="gn29" name="CASP1" type="GENE"/>
 <celldesigner:gene id="gn30" name="LRP1" type="GENE"/>
 <celldesigner:gene id="gn_add15" name="SOCS1" type="GENE"/>
-<celldesigner:gene id="gn_add86" name="NR1D1" type="GENE"/>
+<celldesigner:gene id="gn_add67" name="NR1D1" type="GENE"/>
 </celldesigner:listOfGenes>
 <celldesigner:listOfRNAs>
 <celldesigner:RNA id="rn1" name="CCL2" type="RNA"/>
@@ -7074,7 +6965,7 @@
 <celldesigner:RNA id="rn29" name="CASP1" type="RNA"/>
 <celldesigner:RNA id="rn30" name="LRP1" type="RNA"/>
 <celldesigner:RNA id="rn_add18" name="SOCS1" type="RNA"/>
-<celldesigner:RNA id="rn_add89" name="NR1D1" type="RNA"/>
+<celldesigner:RNA id="rn_add70" name="NR1D1" type="RNA"/>
 </celldesigner:listOfRNAs>
 <celldesigner:listOfAntisenseRNAs/>
 <celldesigner:listOfLayers/>
@@ -9155,40 +9046,7 @@
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add38" id="s_add38" name="VTN" compartment="default" initialAmount="0">
-<annotation>
-<celldesigner:extension>
-<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
-<celldesigner:speciesIdentity>
-<celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add40</celldesigner:proteinReference>
-</celldesigner:speciesIdentity>
-</celldesigner:extension>
-</annotation>
-</species>
-<species metaid="s_add41" id="s_add41" name="ITGAV:ITGB5" compartment="c1" initialAmount="0">
-<annotation>
-<celldesigner:extension>
-<celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
-<celldesigner:speciesIdentity>
-<celldesigner:class>COMPLEX</celldesigner:class>
-<celldesigner:name>ITGAV:ITGB5</celldesigner:name>
-</celldesigner:speciesIdentity>
-</celldesigner:extension>
-</annotation>
-</species>
-<species metaid="s_add49" id="s_add49" name="VTN:ITGAV:ITGB5" compartment="c1" initialAmount="0">
-<annotation>
-<celldesigner:extension>
-<celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
-<celldesigner:speciesIdentity>
-<celldesigner:class>COMPLEX</celldesigner:class>
-<celldesigner:name>VTN:ITGAV:ITGB5</celldesigner:name>
-</celldesigner:speciesIdentity>
-</celldesigner:extension>
-</annotation>
-</species>
-<species metaid="s_add57" id="s_add57" name="JAK:OSMR:IL6ST" compartment="c1" initialAmount="0">
+<species metaid="s_add38" id="s_add38" name="JAK:OSMR:IL6ST" compartment="c1" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
@@ -9199,18 +9057,18 @@
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add69" id="s_add69" name="OSM" compartment="default" initialAmount="0">
+<species metaid="s_add50" id="s_add50" name="OSM" compartment="default" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add71</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr_add52</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add72" id="s_add72" name="OSM:JAK:OSMR:IL6ST" compartment="c1" initialAmount="0">
+<species metaid="s_add53" id="s_add53" name="OSM:JAK:OSMR:IL6ST" compartment="c1" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
@@ -9221,57 +9079,90 @@
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add84" id="s_add84" name="NR1D1" compartment="c2" initialAmount="0">
+<species metaid="s_add65" id="s_add65" name="NR1D1" compartment="c2" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
 <celldesigner:speciesIdentity>
 <celldesigner:class>GENE</celldesigner:class>
-<celldesigner:geneReference>gn_add86</celldesigner:geneReference>
+<celldesigner:geneReference>gn_add67</celldesigner:geneReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add87" id="s_add87" name="NR1D1" compartment="c2" initialAmount="0">
+<species metaid="s_add68" id="s_add68" name="NR1D1" compartment="c2" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
 <celldesigner:speciesIdentity>
 <celldesigner:class>RNA</celldesigner:class>
-<celldesigner:rnaReference>rn_add89</celldesigner:rnaReference>
+<celldesigner:rnaReference>rn_add70</celldesigner:rnaReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add90" id="s_add90" name="NR1D1" compartment="c2" initialAmount="0">
+<species metaid="s_add71" id="s_add71" name="NR1D1" compartment="c2" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add92</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr_add73</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add93" id="s_add93" name="PTK2" compartment="c1" initialAmount="0">
+<species metaid="s_add74" id="s_add74" name="VTN" compartment="default" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add95</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr_add76</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add96" id="s_add96" name="PTK2" compartment="c1" initialAmount="0">
+<species metaid="s_add77" id="s_add77" name="ITGAV" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add79</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add80" id="s_add80" name="VTN:ITGAV" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>COMPLEX</celldesigner:class>
+<celldesigner:name>VTN:ITGAV</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add86" id="s_add86" name="PTK2" compartment="c1" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
-<celldesigner:proteinReference>pr_add95</celldesigner:proteinReference>
+<celldesigner:proteinReference>pr_add88</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add89" id="s_add89" name="PTK2" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add88</celldesigner:proteinReference>
 <celldesigner:state>
 <celldesigner:listOfModifications>
 <celldesigner:modification residue="rs1" state="phosphorylated"/>
@@ -9391,7 +9282,7 @@
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add42" id="s_add42" name="sphingosine" compartment="c1" initialAmount="0">
+<species metaid="s_add41" id="s_add41" name="sphingosine" compartment="c1" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
@@ -11562,7 +11453,7 @@
 </celldesigner:connectScheme>
 <celldesigner:line width="1.0" color="ff000000"/>
 </celldesigner:modification>
-<celldesigner:modification type="UNKNOWN_INHIBITION" modifiers="s_add90" aliases="sa_add91" targetLineIndex="-1,2">
+<celldesigner:modification type="UNKNOWN_INHIBITION" modifiers="s_add71" aliases="sa_add72" targetLineIndex="-1,2">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
@@ -11630,10 +11521,10 @@
 </celldesigner:extension>
 </annotation>
 </modifierSpeciesReference>
-<modifierSpeciesReference metaid="CDMT00458" species="s_add90">
+<modifierSpeciesReference metaid="CDMT00458" species="s_add71">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add91</celldesigner:alias>
+<celldesigner:alias>sa_add72</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </modifierSpeciesReference>
@@ -17426,7 +17317,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add98" id="re_add98" reversible="false">
+<reaction metaid="re_add91" id="re_add91" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
@@ -17454,7 +17345,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add98">
+<rdf:Description rdf:about="#re_add91">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:12799018"/>
@@ -17494,7 +17385,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add99" id="re_add99" reversible="false">
+<reaction metaid="re_add92" id="re_add92" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>TRANSCRIPTION</celldesigner:reactionType>
@@ -17522,7 +17413,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add99">
+<rdf:Description rdf:about="#re_add92">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:24963279"/>
@@ -17564,7 +17455,7 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add100" id="re_add100" reversible="false">
+<reaction metaid="re_add93" id="re_add93" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>TRANSLATION</celldesigner:reactionType>
@@ -17584,7 +17475,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add100">
+<rdf:Description rdf:about="#re_add93">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:24963279"/>
@@ -17612,7 +17503,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add101" id="re_add101" reversible="false">
+<reaction metaid="re_add94" id="re_add94" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>NEGATIVE_INFLUENCE</celldesigner:reactionType>
@@ -17630,7 +17521,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add101">
+<rdf:Description rdf:about="#re_add94">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:18713987"/>
@@ -17658,7 +17549,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add102" id="re_add102" reversible="false">
+<reaction metaid="re_add95" id="re_add95" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>UNKNOWN_TRANSITION</celldesigner:reactionType>
@@ -17686,7 +17577,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add102">
+<rdf:Description rdf:about="#re_add95">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:17015745"/>
@@ -17723,7 +17614,7 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add103" id="re_add103" reversible="false">
+<reaction metaid="re_add96" id="re_add96" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
@@ -17751,7 +17642,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add103">
+<rdf:Description rdf:about="#re_add96">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:20005821"/>
@@ -17791,7 +17682,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add104" id="re_add104" reversible="false">
+<reaction metaid="re_add97" id="re_add97" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>KNOWN_TRANSITION_OMITTED</celldesigner:reactionType>
@@ -17809,7 +17700,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add104">
+<rdf:Description rdf:about="#re_add97">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:20005821"/>
@@ -17842,18 +17733,18 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add105" id="re_add105" reversible="false">
+<reaction metaid="re_add98" id="re_add98" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add41" alias="csa_add42"/>
+<celldesigner:baseReactant species="s_add38" alias="csa_add39"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
-<celldesigner:baseProduct species="s_add49" alias="csa_add50"/>
+<celldesigner:baseProduct species="s_add53" alias="csa_add54"/>
 </celldesigner:baseProducts>
 <celldesigner:listOfReactantLinks>
-<celldesigner:reactantLink reactant="s_add38" alias="sa_add39" targetLineIndex="-1,0">
+<celldesigner:reactantLink reactant="s_add50" alias="sa_add51" targetLineIndex="-1,0">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
@@ -17870,80 +17761,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add105">
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:29222114"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:17548654"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:10564645"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
-</rdf:Description>
-</rdf:RDF>
-</annotation>
-<listOfReactants>
-<speciesReference metaid="CDMT00437" species="s_add41">
-<annotation>
-<celldesigner:extension>
-<celldesigner:alias>csa_add42</celldesigner:alias>
-</celldesigner:extension>
-</annotation>
-</speciesReference>
-<speciesReference metaid="CDMT00438" species="s_add38">
-<annotation>
-<celldesigner:extension>
-<celldesigner:alias>sa_add39</celldesigner:alias>
-</celldesigner:extension>
-</annotation>
-</speciesReference>
-</listOfReactants>
-<listOfProducts>
-<speciesReference metaid="CDMT00439" species="s_add49">
-<annotation>
-<celldesigner:extension>
-<celldesigner:alias>csa_add50</celldesigner:alias>
-</celldesigner:extension>
-</annotation>
-</speciesReference>
-</listOfProducts>
-</reaction>
-<reaction metaid="re_add106" id="re_add106" reversible="false">
-<annotation>
-<celldesigner:extension>
-<celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
-<celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add57" alias="csa_add58"/>
-</celldesigner:baseReactants>
-<celldesigner:baseProducts>
-<celldesigner:baseProduct species="s_add72" alias="csa_add73"/>
-</celldesigner:baseProducts>
-<celldesigner:listOfReactantLinks>
-<celldesigner:reactantLink reactant="s_add69" alias="sa_add70" targetLineIndex="-1,0">
-<celldesigner:connectScheme connectPolicy="direct">
-<celldesigner:listOfLineDirection>
-<celldesigner:lineDirection index="0" value="unknown"/>
-</celldesigner:listOfLineDirection>
-</celldesigner:connectScheme>
-<celldesigner:line width="1.0" color="ffe69500" type="Straight"/>
-</celldesigner:reactantLink>
-</celldesigner:listOfReactantLinks>
-<celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
-<celldesigner:listOfLineDirection>
-<celldesigner:lineDirection index="0" value="unknown"/>
-</celldesigner:listOfLineDirection>
-</celldesigner:connectScheme>
-<celldesigner:line width="1.0" color="ffe69500"/>
-</celldesigner:extension>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add106">
+<rdf:Description rdf:about="#re_add98">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:10899931"/>
@@ -17968,37 +17786,37 @@
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00440" species="s_add57">
+<speciesReference metaid="CDMT00437" species="s_add38">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>csa_add58</celldesigner:alias>
+<celldesigner:alias>csa_add39</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
-<speciesReference metaid="CDMT00441" species="s_add69">
+<speciesReference metaid="CDMT00438" species="s_add50">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add70</celldesigner:alias>
+<celldesigner:alias>sa_add51</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00442" species="s_add72">
+<speciesReference metaid="CDMT00439" species="s_add53">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>csa_add73</celldesigner:alias>
+<celldesigner:alias>csa_add54</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add107" id="re_add107" reversible="false">
+<reaction metaid="re_add99" id="re_add99" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>PHYSICAL_STIMULATION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add72" alias="csa_add73"/>
+<celldesigner:baseReactant species="s_add53" alias="csa_add54"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
 <celldesigner:baseProduct species="s1749" alias="sa199"/>
@@ -18011,7 +17829,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add107">
+<rdf:Description rdf:about="#re_add99">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:25103368"/>
@@ -18021,16 +17839,16 @@
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00443" species="s_add72">
+<speciesReference metaid="CDMT00440" species="s_add53">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>csa_add73</celldesigner:alias>
+<celldesigner:alias>csa_add54</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00444" species="s1749">
+<speciesReference metaid="CDMT00441" species="s1749">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa199</celldesigner:alias>
@@ -18039,12 +17857,12 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add108" id="re_add108" reversible="false">
+<reaction metaid="re_add100" id="re_add100" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>PHYSICAL_STIMULATION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add72" alias="csa_add73"/>
+<celldesigner:baseReactant species="s_add53" alias="csa_add54"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
 <celldesigner:baseProduct species="s1646" alias="sa119"/>
@@ -18060,7 +17878,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add108">
+<rdf:Description rdf:about="#re_add100">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:10899931"/>
@@ -18070,16 +17888,16 @@
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00445" species="s_add72">
+<speciesReference metaid="CDMT00442" species="s_add53">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>csa_add73</celldesigner:alias>
+<celldesigner:alias>csa_add54</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00446" species="s1646">
+<speciesReference metaid="CDMT00443" species="s1646">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa119</celldesigner:alias>
@@ -18088,15 +17906,15 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add109" id="re_add109" reversible="false">
+<reaction metaid="re_add101" id="re_add101" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>TRANSCRIPTION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add84" alias="sa_add85"/>
+<celldesigner:baseReactant species="s_add65" alias="sa_add66"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
-<celldesigner:baseProduct species="s_add87" alias="sa_add88"/>
+<celldesigner:baseProduct species="s_add68" alias="sa_add69"/>
 </celldesigner:baseProducts>
 <celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
 <celldesigner:listOfLineDirection>
@@ -18116,7 +17934,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add109">
+<rdf:Description rdf:about="#re_add101">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:33258449"/>
@@ -18126,25 +17944,25 @@
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00447" species="s_add84">
+<speciesReference metaid="CDMT00444" species="s_add65">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add85</celldesigner:alias>
+<celldesigner:alias>sa_add66</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00448" species="s_add87">
+<speciesReference metaid="CDMT00445" species="s_add68">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add88</celldesigner:alias>
+<celldesigner:alias>sa_add69</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfProducts>
 <listOfModifiers>
-<modifierSpeciesReference metaid="CDMT00449" species="s_add24">
+<modifierSpeciesReference metaid="CDMT00446" species="s_add24">
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add25</celldesigner:alias>
@@ -18153,15 +17971,15 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add110" id="re_add110" reversible="false">
+<reaction metaid="re_add102" id="re_add102" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>TRANSLATION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add87" alias="sa_add88"/>
+<celldesigner:baseReactant species="s_add68" alias="sa_add69"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
-<celldesigner:baseProduct species="s_add90" alias="sa_add91"/>
+<celldesigner:baseProduct species="s_add71" alias="sa_add72"/>
 </celldesigner:baseProducts>
 <celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
 <celldesigner:listOfLineDirection>
@@ -18171,7 +17989,7 @@
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add110">
+<rdf:Description rdf:about="#re_add102">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:33258449"/>
@@ -18181,33 +17999,101 @@
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00450" species="s_add87">
+<speciesReference metaid="CDMT00447" species="s_add68">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add88</celldesigner:alias>
+<celldesigner:alias>sa_add69</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00451" species="s_add90">
+<speciesReference metaid="CDMT00448" species="s_add71">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add91</celldesigner:alias>
+<celldesigner:alias>sa_add72</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add111" id="re_add111" reversible="false">
+<reaction metaid="re_add103" id="re_add103" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add93" alias="sa_add94"/>
+<celldesigner:baseReactant species="s_add77" alias="sa_add78"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
-<celldesigner:baseProduct species="s_add96" alias="sa_add97"/>
+<celldesigner:baseProduct species="s_add80" alias="csa_add81"/>
+</celldesigner:baseProducts>
+<celldesigner:listOfReactantLinks>
+<celldesigner:reactantLink reactant="s_add74" alias="sa_add75" targetLineIndex="-1,0">
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ffe69500" type="Straight"/>
+</celldesigner:reactantLink>
+</celldesigner:listOfReactantLinks>
+<celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ffe69500"/>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#re_add103">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:29222114"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:35702047"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference metaid="CDMT00449" species="s_add77">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add78</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+<speciesReference metaid="CDMT00450" species="s_add74">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add75</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfReactants>
+<listOfProducts>
+<speciesReference metaid="CDMT00451" species="s_add80">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>csa_add81</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfProducts>
+</reaction>
+<reaction metaid="re_add104" id="re_add104" reversible="false">
+<annotation>
+<celldesigner:extension>
+<celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
+<celldesigner:baseReactants>
+<celldesigner:baseReactant species="s_add86" alias="sa_add87"/>
+</celldesigner:baseReactants>
+<celldesigner:baseProducts>
+<celldesigner:baseProduct species="s_add89" alias="sa_add90"/>
 </celldesigner:baseProducts>
 <celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
 <celldesigner:listOfLineDirection>
@@ -18216,7 +18102,7 @@
 </celldesigner:connectScheme>
 <celldesigner:line width="1.0" color="ffe69500"/>
 <celldesigner:listOfModification>
-<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add49" aliases="csa_add50" targetLineIndex="-1,2">
+<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add80" aliases="csa_add81" targetLineIndex="-1,2">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
@@ -18227,7 +18113,12 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add111">
+<rdf:Description rdf:about="#re_add104">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:35702047"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:29222114"/>
@@ -18237,34 +18128,34 @@
 </rdf:RDF>
 </annotation>
 <listOfReactants>
-<speciesReference metaid="CDMT00452" species="s_add93">
+<speciesReference metaid="CDMT00452" species="s_add86">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add94</celldesigner:alias>
+<celldesigner:alias>sa_add87</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00453" species="s_add96">
+<speciesReference metaid="CDMT00453" species="s_add89">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add97</celldesigner:alias>
+<celldesigner:alias>sa_add90</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
 </listOfProducts>
 <listOfModifiers>
-<modifierSpeciesReference metaid="CDMT00454" species="s_add49">
+<modifierSpeciesReference metaid="CDMT00454" species="s_add80">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>csa_add50</celldesigner:alias>
+<celldesigner:alias>csa_add81</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add112" id="re_add112" reversible="false">
+<reaction metaid="re_add105" id="re_add105" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>KNOWN_TRANSITION_OMITTED</celldesigner:reactionType>
@@ -18284,7 +18175,7 @@
 <celldesigner:editPoints>0.23076923076923078,-0.2923076923076923 0.7692307692307693,-0.2923076923076923</celldesigner:editPoints>
 <celldesigner:line width="1.0" color="ffe69500"/>
 <celldesigner:listOfModification>
-<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add96" aliases="sa_add97" targetLineIndex="-1,2">
+<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add89" aliases="sa_add90" targetLineIndex="-1,2">
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
@@ -18295,7 +18186,12 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add112">
+<rdf:Description rdf:about="#re_add105">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:35702047"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:29222114"/>
@@ -18323,16 +18219,16 @@
 </speciesReference>
 </listOfProducts>
 <listOfModifiers>
-<modifierSpeciesReference metaid="CDMT00457" species="s_add96">
+<modifierSpeciesReference metaid="CDMT00457" species="s_add89">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add97</celldesigner:alias>
+<celldesigner:alias>sa_add90</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add44" id="re_add44" reversible="false">
+<reaction metaid="re_add43" id="re_add43" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
@@ -18350,7 +18246,7 @@
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add44">
+<rdf:Description rdf:about="#re_add43">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:17595227"/>
@@ -18378,7 +18274,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add45" id="re_add45" reversible="false">
+<reaction metaid="re_add44" id="re_add44" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
@@ -18406,15 +18302,15 @@
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add45">
+<rdf:Description rdf:about="#re_add44">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:17595227"/>
+<rdf:li rdf:resource="urn:miriam:pubmed:41454349"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
 <bqmodel:isDescribedBy>
 <rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:40015967"/>
+<rdf:li rdf:resource="urn:miriam:pubmed:17595227"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
 </rdf:Description>
@@ -18446,7 +18342,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add46" id="re_add46" reversible="false">
+<reaction metaid="re_add45" id="re_add45" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>KNOWN_TRANSITION_OMITTED</celldesigner:reactionType>
@@ -18477,7 +18373,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add46">
+<rdf:Description rdf:about="#re_add45">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:17595227"/>
@@ -18519,7 +18415,7 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add47" id="re_add47" reversible="false">
+<reaction metaid="re_add46" id="re_add46" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
@@ -18547,10 +18443,10 @@
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add47">
+<rdf:Description rdf:about="#re_add46">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:37679549"/>
+<rdf:li rdf:resource="urn:miriam:pubmed:22378888"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
 </rdf:Description>
@@ -18582,7 +18478,7 @@
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add48" id="re_add48" reversible="false">
+<reaction metaid="re_add47" id="re_add47" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>UNKNOWN_TRANSITION</celldesigner:reactionType>
@@ -18613,7 +18509,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add48">
+<rdf:Description rdf:about="#re_add47">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:22378888"/>
@@ -18650,7 +18546,7 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add49" id="re_add49" reversible="false">
+<reaction metaid="re_add48" id="re_add48" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>UNKNOWN_TRANSITION</celldesigner:reactionType>
@@ -18681,7 +18577,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add49">
+<rdf:Description rdf:about="#re_add48">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:39738378"/>
@@ -18718,7 +18614,7 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add50" id="re_add50" reversible="false">
+<reaction metaid="re_add49" id="re_add49" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>STATE_TRANSITION</celldesigner:reactionType>
@@ -18726,7 +18622,7 @@
 <celldesigner:baseReactant species="s_add39" alias="sa_add40"/>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
-<celldesigner:baseProduct species="s_add42" alias="sa_add43"/>
+<celldesigner:baseProduct species="s_add41" alias="sa_add42"/>
 </celldesigner:baseProducts>
 <celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
 <celldesigner:listOfLineDirection>
@@ -18746,7 +18642,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add50">
+<rdf:Description rdf:about="#re_add49">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:35921286"/>
@@ -18770,10 +18666,10 @@
 </speciesReference>
 </listOfReactants>
 <listOfProducts>
-<speciesReference metaid="CDMT00477" species="s_add42">
+<speciesReference metaid="CDMT00477" species="s_add41">
 <annotation>
 <celldesigner:extension>
-<celldesigner:alias>sa_add43</celldesigner:alias>
+<celldesigner:alias>sa_add42</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>
@@ -18788,7 +18684,7 @@
 </modifierSpeciesReference>
 </listOfModifiers>
 </reaction>
-<reaction metaid="re_add51" id="re_add51" reversible="false">
+<reaction metaid="re_add50" id="re_add50" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>UNKNOWN_TRANSITION</celldesigner:reactionType>
@@ -18816,7 +18712,7 @@
 </celldesigner:listOfModification>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add51">
+<rdf:Description rdf:about="#re_add50">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:18248608"/>

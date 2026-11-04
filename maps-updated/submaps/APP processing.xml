@@ -11443,11 +11443,6 @@
 <rdf:li rdf:resource="urn:miriam:pubmed:21177248"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:23816988"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
 </rdf:Description>
 </rdf:RDF>
 </annotation>
@@ -11555,11 +11550,6 @@
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:22383525"/>
-</rdf:Bag>
-</bqmodel:isDescribedBy>
-<bqmodel:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:20005821"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>
 </rdf:Description>
