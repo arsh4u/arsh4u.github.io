@@ -875,6 +875,7 @@
 <polyline points="1752.62,919.71 1690.64,950.19"/>
 <polyline points="4727.7,1260.8 1630,1260.8 1630,1023"/>
 <polyline points="1630,1008 1630,4910 3855,4910"/>
+<polyline points="6778.64,1355.69 7057.28,1108.27"/>
 <polyline points="7133.09,1345.75 7135.71,1347.63"/>
 <polyline points="7050.6,1321.1 5240.01,1321.05 5240,1679"/>
 <polyline points="6193,1560 6212,1560"/>
@@ -1897,6 +1898,9 @@
 <polygon points="3878,4910 3863,4915 3863,4905" fill="#000"/>
 <polygon points="3873.2,4910 3866,4912 3866,4908" fill="#fff"/>
 <polyline points="1630,1000 1630,4910 3863,4910" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="7074.48,1093 7066.58,1106.7 7059.94,1099.22" fill="#000"/>
+<polygon points="7070.89,1096.19 7066.83,1102.46 7064.18,1099.47" fill="#fff"/>
+<polyline points="6772.66,1361 7063.26,1102.96" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="7154.43,1361 7139.31,1356.35 7145.13,1348.21" fill="#000"/>
 <polygon points="7150.52,1358.21 7143.5,1355.65 7145.83,1352.4" fill="#fff"/>
 <polyline points="7126.58,1341.1 7142.22,1352.28" fill="none" stroke="#1f6fd1" stroke-width="1"/>

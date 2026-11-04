@@ -246,7 +246,7 @@
    ],
    "summary": "TAB2 links upstream signals to TAK1. In primary mouse microglia K63 ubiquitination of TAB2 drives TAB1-TAK1-TAB2 complex formation and NF-kB activation, and microglia-specific Tab2 knockdown protects dopaminergic neurons in MPTP mice. TAB2 knockdown also reduces injury after ischaemic stroke.",
    "links": [
-    "Activates NF-kB signalling in microglia."
+    "Driven by JAK-STAT signalling (STAT3 binds the TAB2 promoter, ChIP; a STAT3 inhibitor lowers TAB2 in primary microglia and in vivo) and drives NF-kB signalling in microglia (top-level map, Zhao 2026, read in full). TAB2 binds K63-linked ubiquitin through its zinc finger and assembles TAK1; it does not drive MAPK here."
    ],
    "refs": [
     {
