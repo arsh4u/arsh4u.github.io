@@ -739,6 +739,10 @@
 <text x="4030" y="2314" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">OSM</text>
 <circle cx="3605" cy="2005" r="11.25" fill="#ffcc00" stroke="#000"/>
 <line x1="3611" y1="1990" x2="3599" y2="2020" stroke="#000"/>
+<rect x="3850" y="1995" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="3890" y="2019" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CDH5</text>
+<circle cx="4075" cy="2015" r="11.25" fill="#ffcc00" stroke="#000"/>
+<line x1="4081" y1="2000" x2="4069" y2="2030" stroke="#000"/>
 <rect x="6640" y="2160" width="80" height="40" rx="5" fill="#ccffcc" stroke="#000"/>
 <text x="6680" y="2184" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">ARNT</text>
 <rect x="6835" y="1985" width="70" height="25" fill="#ffcc00" stroke="#000"/>
@@ -1256,6 +1260,8 @@
 <polyline points="6870,2018 6870,2063"/>
 <polyline points="6837.94,2044.12 6857.06,2046.51"/>
 <polyline points="6868.85,2117.99 6857.35,2323.03"/>
+<polyline points="3938,2015 4041.75,2015"/>
+<polyline points="3885.95,2119.7 3990.93,2025.35"/>
 </g>
 <polygon points="3560,3725 3545,3730 3545,3720" fill="#000"/>
 <polyline points="1883.75,3700 3022.35,3700.06 3022.34,3724.97 3546,3725" fill="none" stroke="#000000" stroke-width="1"/>
@@ -2058,4 +2064,9 @@
 <polygon points="6856.12,2345 6851.97,2329.74 6861.95,2330.3" fill="#000"/>
 <polyline points="6869.3,2110 6856.91,2331.02" fill="none" stroke="#e69500" stroke-width="1" stroke-dasharray="10,3,2,3"/>
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(6862.71,2227.5) rotate(93.21)"/>
+<polygon points="4063.75,2015 4048.75,2020 4048.75,2010" fill="#000"/>
+<polyline points="3930,2015 4049.75,2015" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="3996.88,2020 3993.6,2028.32 3988.25,2022.37" fill="#fff" stroke="#000"/>
+<polyline points="3880,2125.05 3990.93,2025.35" fill="none" stroke="#e69500" stroke-width="1"/>
+<rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(3996.88,2015) rotate(0)"/><text x="3996.88" y="2018" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" text-anchor="middle">?</text>
 </svg>

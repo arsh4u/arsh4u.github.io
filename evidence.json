@@ -85,7 +85,8 @@
     "Binds JAK:OSMR:IL6ST on astrocytes and on endothelial cells: OSMR with gp130 (IL6ST) and the kinases JAK1 and JAK2, which sit on the receptor chains before OSM binds (Hermanns 1999) (top-level map, Astrocyte signaling, altered BBB permeability).",
     "In astrocytes the bound receptor activates JAK-STAT signalling (STAT1 and STAT3 phosphorylation, Hsu 2015) and MAPK signalling (ERK1/2 and p38, which carry its induction of IL6, Van Wagoner 2000); IL6 transcription is reached through the MAPK signalling already drawn, not by a direct arc.",
     "In endothelial cells it lowers claudin-5 (and VE-cadherin, not on the map) by a mechanism not shown: unknown process (?) (altered BBB permeability).",
-    "OSM receptor signalling raises CCL20 in brain endothelial cells and astrocytes (primary human and mouse cells), and CCL20 promotes Th17 cell adhesion through LFA-1 (top-level map, Hermans 2022, read in full). OSM does not raise VCAM-1 or ICAM-1 and lowers them under inflammation."
+    "OSM receptor signalling raises CCL20 in brain endothelial cells and astrocytes (primary human and mouse cells), and CCL20 promotes Th17 cell adhesion through LFA-1 (top-level map, Hermans 2022, read in full). OSM does not raise VCAM-1 or ICAM-1 and lowers them under inflammation.",
+    "In brain endothelial cells the bound OSM receptor lowers claudin-5 and VE-cadherin (CDH5), each drawn as a loss by a mechanism not shown (?) (altered BBB permeability; primary human brain endothelial cells, Hermans 2022)."
    ],
    "refs": [
     {
