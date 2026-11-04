@@ -82,7 +82,7 @@
    ],
    "summary": "Oncostatin M, made by CNS myeloid cells, acts on astrocytes and brain endothelium through its receptor OSMR with gp130. It induces IL-6 and STAT1/STAT3 activation in astrocytes and lowers claudin-5 and VE-cadherin in inflamed brain endothelial cells, and the OSM-OSMR axis shapes EAE, BBB leakage and cuprizone demyelination in mice.",
    "links": [
-    "Binds OSMR:IL6ST on astrocytes and on endothelial cells (top-level map, Astrocyte signaling, altered BBB permeability).",
+    "Binds JAK:OSMR:IL6ST on astrocytes and on endothelial cells: OSMR with gp130 (IL6ST) and the kinases JAK1 and JAK2, which sit on the receptor chains before OSM binds (Hermanns 1999) (top-level map, Astrocyte signaling, altered BBB permeability).",
     "In astrocytes the bound receptor activates JAK-STAT signalling (STAT1 and STAT3 phosphorylation, Hsu 2015) and MAPK signalling (ERK1/2 and p38, which carry its induction of IL6, Van Wagoner 2000); IL6 transcription is reached through the MAPK signalling already drawn, not by a direct arc.",
     "In endothelial cells it lowers claudin-5 (and VE-cadherin, not on the map) by a mechanism not shown: unknown process (?) (altered BBB permeability)."
    ],
@@ -110,6 +110,10 @@
     {
      "pmid": "25921393",
      "cite": "Janssens K et al. 2015, Glia."
+    },
+    {
+     "pmid": "10586060",
+     "cite": "Hermanns HM et al. 1999, J Immunol."
     }
    ],
    "disease_note": "The OSM-OSMR axis acts in both directions by cell type: on brain endothelium it loosens the barrier (drawn), while astrocytic OSMR lowers EAE severity.",
@@ -134,7 +138,7 @@
    ],
    "summary": "The oncostatin M receptor. Primary mouse astrocytes express OSMR and phosphorylate STAT1 and STAT3 on OSM, while microglia do not. Astrocyte-specific OsmR deletion worsens EAE, and OSMRbeta-deficient mice show less BBB leakage and Th17 infiltration.",
    "links": [
-    "Drawn as the OSMR:IL6ST complex (the type II OSM receptor, which OSM uses in astrocytes, Van Wagoner 2000). Astrocytes carry it, microglia do not (Hsu 2015).",
+    "Drawn as the complex JAK:OSMR:IL6ST: OSMR with gp130 (IL6ST), the type II OSM receptor, which OSM uses in astrocytes (Van Wagoner 2000), with JAK1 and JAK2 bound to the receptor chains (Stahl 1994, Hermanns 1999), as the map draws JAK:IFNGR. Astrocytes carry it, microglia do not (Hsu 2015).",
     "Top-level map: to JAK-STAT SIGNALING and MAPK SIGNALING in astrocytes, to BBB PERMEABILITY in endothelial cells."
    ],
    "refs": [
@@ -157,6 +161,14 @@
     {
      "pmid": "32071226",
      "cite": "Houben E et al. 2020, Proc Natl Acad Sci U S A."
+    },
+    {
+     "pmid": "8272873",
+     "cite": "Stahl N et al. 1994, Science."
+    },
+    {
+     "pmid": "10586060",
+     "cite": "Hermanns HM et al. 1999, J Immunol."
     }
    ],
    "disease_note": "The OSM-OSMR axis acts in both directions by cell type: on brain endothelium it loosens the barrier, while astrocytic OSMR lowers EAE severity (Deerhake 2021).",
@@ -423,7 +435,7 @@
    ],
    "summary": "The LDL receptor takes up apoE and amyloid-beta in the brain. Brain LDLR overexpression lowers apoE by 50 to 90 percent, speeds amyloid-beta clearance and reduces microgliosis and astrogliosis in APP/PS1 mice, and it suppresses microglial activation in tauopathy mice. In primary astrocytes LDLR drives amyloid-beta uptake and lysosomal degradation.",
    "links": [
-    "Lowers extracellular apoE (top-level map); its uptake and lysosomal degradation of apoE is one omitted process (//) in Astrocyte signaling.",
+    "Lowers extracellular apoE (top-level map). In Astrocyte signaling apoE binds LDLR, and the APOE:LDLR complex is taken up and degraded in lysosomes, one omitted process (//) (Kim 2009, Basak 2012).",
     "Amyloid-beta 42 binds LDLR on the astrocyte membrane (Basak 2012 gives evidence of direct binding); the complex is taken up and degraded in lysosomes, drawn as one omitted process (//) (APP processing), as the map draws amyloid-beta with LRP1."
    ],
    "refs": [
@@ -1019,7 +1031,7 @@
    "summary": "Vitronectin, a blood and matrix protein, leaks into the brain after cerebral ischaemia. In female mice its knockout reduces microglia and macrophage activation, leukocyte infiltration and striatal IL-6, and IL-6 reverses the protection. Vitronectin raises IL-6 through alphaV integrins and FAK in astrocytes. Waited in the first check because its partner its receptor, integrin alphaVbeta5 was not on the map; added together with its receptor, integrin alphaVbeta5 once its receptor, integrin alphaVbeta5 passed the same bar by itself.",
    "links": [
     "Binds integrin alphaVbeta5 on astrocytes and microglia (top-level map).",
-    "In astrocytes the bound integrin activates FAK (PTK2); FAK leads to IL6 transcription by steps not shown, drawn as an omitted transcription (//) beside the existing one (Astrocyte signaling, Keasey 2018)."
+    "In astrocytes the bound integrin activates FAK (PTK2), drawn as FAK phosphorylated at Y397, its autophosphorylation site: dominant-negative FAK Y397F lowers injury-induced IL-6 and LIF (Keasey 2018). Active FAK leads to IL6 transcription by steps not shown, drawn as an omitted transcription (//) beside the existing one (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1247,7 +1259,8 @@
    "summary": "Galactosylceramidase is the enzyme lost in Krabbe disease. GALC-deficient microglia fail to raise TREM2 and clear myelin debris after demyelination, and GALC-null astrocytes overexpress lipocalin-2.",
    "links": [
     "Supports TREM2 induction in microglia (top-level map).",
-    "Its loss raises LCN2 transcription in astrocytes by a mechanism not shown: unknown process (?) (Astrocyte signaling)."
+    "Its loss raises LCN2 transcription in astrocytes by a mechanism not shown: unknown process (?) (Astrocyte signaling).",
+    "Breaks down psychosine (galactosylsphingosine), drawn as psychosine to sphingosine catalysed by GALC; astrocytes made from Krabbe patients' stem cells accumulate psychosine (Lieberman 2022). Psychosine raises iNOS in primary astrocytes by a mechanism not shown: unknown process (?) on NOS2 transcription (Giri 2008) (Astrocyte signaling)."
    ],
    "refs": [
     {
@@ -1257,6 +1270,14 @@
     {
      "pmid": "39738378",
      "cite": "Favret J et al. 2024, Sci Rep."
+    },
+    {
+     "pmid": "35921286",
+     "cite": "Lieberman R et al. 2022, PLoS One."
+    },
+    {
+     "pmid": "18248608",
+     "cite": "Giri S et al. 2008, J Neurochem."
     }
    ],
    "disease_note": "",

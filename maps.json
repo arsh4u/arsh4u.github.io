@@ -44,13 +44,13 @@
   "slug": "altered-bbb-permeability-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/altered BBB permeability.xml",
-  "sha1": "b97624a685c8c4a1a6d7004bb562a984a1bc63b7",
+  "sha1": "1fc4fbf9510d3004497bbb594c5b49e30433951e",
   "error": "",
   "notes": [],
-  "svg": "adcb9dcc105a26b1121b659d8f22623043deec82",
+  "svg": "05e0d607f758baf96595a3204e81e0d5b368994e",
   "width": 7750.0,
   "height": 8500.0,
-  "ann": "e2e26390cd52545694b92779303f247dfbdb11f4",
+  "ann": "e17a14c4dd0348c0aa638c2a98f7e0dd9702398d",
   "updated": true
  },
  {
@@ -111,13 +111,13 @@
   "slug": "astrocyte-signaling-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/Astrocyte signaling.xml",
-  "sha1": "4a42e125f2de4bf06e9f36cd94e9df1fe9b7dc47",
+  "sha1": "ef64111ceae513b50554d6216c1bf4ba92a60d9b",
   "error": "",
   "notes": [],
-  "svg": "e2f1117c60855fdbde9add1e69436e15aecc3a8a",
+  "svg": "f63538cfd1a2f6331db99cb5aadace99c7f0e5b2",
   "width": 6800.0,
   "height": 2700.0,
-  "ann": "cb9cb971e4444b5ec91526e102c1de49c2c9c3e2",
+  "ann": "1e9e65723914a8c206ff4b01b5d640009b0c5c47",
   "updated": true
  },
  {
