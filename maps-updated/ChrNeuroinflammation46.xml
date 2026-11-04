@@ -4553,9 +4553,9 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add21" species="s_add20" compartmentAlias="ca1">
+<celldesigner:speciesAlias id="sa_add21" species="s_add20" compartmentAlias="ca2">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="2892.5" y="990.4" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1590.0" y="960.0" w="80.0" h="40.0"/>
 <celldesigner:font size="20"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -7591,7 +7591,7 @@ SemanticZoomLevelTransparency: 0
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add20" id="s_add20" name="CCL20" compartment="c1" initialAmount="0">
+<species metaid="s_add20" id="s_add20" name="CCL20" compartment="c2" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
@@ -26366,10 +26366,8 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:connectScheme connectPolicy="direct">
 <celldesigner:listOfLineDirection>
 <celldesigner:lineDirection index="0" value="unknown"/>
-<celldesigner:lineDirection index="1" value="unknown"/>
 </celldesigner:listOfLineDirection>
 </celldesigner:connectScheme>
-<celldesigner:editPoints>0.9889310593245638,-0.1046251366917145</celldesigner:editPoints>
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -26417,7 +26415,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:lineDirection index="1" value="unknown"/>
 </celldesigner:listOfLineDirection>
 </celldesigner:connectScheme>
-<celldesigner:editPoints>0.01793254355943909,0.13270632027498883</celldesigner:editPoints>
+<celldesigner:editPoints>0.9921444303070642,-0.08828283931622893</celldesigner:editPoints>
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -26465,7 +26463,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:lineDirection index="1" value="unknown"/>
 </celldesigner:listOfLineDirection>
 </celldesigner:connectScheme>
-<celldesigner:editPoints>0.06850340356262401,-0.25260777356003966</celldesigner:editPoints>
+<celldesigner:editPoints>0.7349639534607058,0.44135239953365535</celldesigner:editPoints>
 <celldesigner:line width="1.0" color="ffe69500"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">

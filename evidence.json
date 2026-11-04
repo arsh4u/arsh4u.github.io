@@ -1146,7 +1146,7 @@
    ],
    "summary": "The chemokine CCL20 attracts CCR6-positive Th17 cells. Oncostatin M raises it in inflamed brain endothelial cells and in reactive astrocytes (primary human and mouse cells), and CCL20 activates LFA-1 on Th17 cells and raises their adhesion to the brain endothelium; OSMR-beta-deficient mice have less Th17 infiltration in EAE (Hermans 2022). Added (not on the list) as the step through which OSM recruits Th17 cells.",
    "links": [
-    "Raised by OSM receptor signalling in endothelial cells and astrocytes and promotes Th17 cell recruitment (top-level map)."
+    "Raised by OSM receptor signalling in endothelial cells and astrocytes and promotes Th17 cell adhesion and recruitment; drawn on the blood side, where it acts on Th17 cells (top-level map)."
    ],
    "refs": [
     {
