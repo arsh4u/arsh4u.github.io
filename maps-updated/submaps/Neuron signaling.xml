@@ -1505,7 +1505,7 @@
 </celldesigner:complexSpeciesAlias>
 <celldesigner:complexSpeciesAlias id="csa_add8" species="s_add7" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1916.9" y="1943.5" w="100.0" h="115.0"/>
+<celldesigner:bounds x="1851.5" y="1946.0" w="100.0" h="115.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -3902,7 +3902,7 @@
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add2" species="s_add1">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1820.0" y="2073.0" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1775.0" y="2085.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -3921,7 +3921,7 @@
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add5" species="s_add4" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1811.9" y="1981.0" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1700.0" y="1983.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -3940,7 +3940,7 @@
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add10" species="s_add9" compartmentAlias="ca1" complexSpeciesAlias="csa_add8">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1926.9" y="1948.5" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1861.5" y="1951.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -3959,7 +3959,7 @@
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add12" species="s_add11" compartmentAlias="ca1" complexSpeciesAlias="csa_add8">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1926.9" y="1993.5" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1861.5" y="1996.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -10343,10 +10343,14 @@
 <celldesigner:extension>
 <celldesigner:reactionType>PHYSICAL_STIMULATION</celldesigner:reactionType>
 <celldesigner:baseReactants>
-<celldesigner:baseReactant species="s_add7" alias="csa_add8"/>
+<celldesigner:baseReactant species="s_add7" alias="csa_add8">
+<celldesigner:linkAnchor position="N"/>
+</celldesigner:baseReactant>
 </celldesigner:baseReactants>
 <celldesigner:baseProducts>
-<celldesigner:baseProduct species="s1077" alias="sa109"/>
+<celldesigner:baseProduct species="s1077" alias="sa109">
+<celldesigner:linkAnchor position="SSE"/>
+</celldesigner:baseProduct>
 </celldesigner:baseProducts>
 <celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
 <celldesigner:listOfLineDirection>

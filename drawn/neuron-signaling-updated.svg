@@ -61,8 +61,8 @@
 <text x="1585" y="570.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">TNF:TNFR1</text>
 <polygon points="1310,640 1400,640 1405,645 1405,755 1400,760 1310,760 1305,755 1305,645" fill="#f7f7f7" stroke="#000" stroke-width="2"/>
 <text x="1355" y="753" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">RIPK1:RIPK3</text>
-<polygon points="1921.9,1943.5 2011.9,1943.5 2016.9,1948.5 2016.9,2053.5 2011.9,2058.5 1921.9,2058.5 1916.9,2053.5 1916.9,1948.5" fill="#ffcc00" stroke="#000" stroke-width="2"/>
-<text x="1966.9" y="2051.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCL13:CXCR5</text>
+<polygon points="1856.5,1946 1946.5,1946 1951.5,1951 1951.5,2056 1946.5,2061 1856.5,2061 1851.5,2056 1851.5,1951" fill="#ffcc00" stroke="#000" stroke-width="2"/>
+<text x="1901.5" y="2054" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCL13:CXCR5</text>
 <polygon points="1520,690 1600,690 1605,695 1605,790 1600,795 1520,795 1515,790 1515,695" fill="#66b2ff" stroke="#000" stroke-width="2"/>
 <text x="1560" y="788" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">ZBP1:RIPK3</text>
 <polygon points="5425,800 5505,800 5510,805 5510,900 5505,905 5425,905 5420,900 5420,805" fill="#66b2ff" stroke="#000" stroke-width="2"/>
@@ -242,10 +242,10 @@
 <text x="1429" y="824" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">MLKL</text>
 <polygon points="1252,981 1418,981 1447,1010 1418,1039 1252,1039 1223,1010" fill="#ebedde" stroke="#000"/>
 <text x="1335" y="1014" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">NECROPTOSIS</text>
-<rect x="1820" y="2073" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="1860" y="2097" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCL13</text>
-<rect x="1811.9" y="1981" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="1851.9" y="2005" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCR5</text>
+<rect x="1775" y="2085" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="1815" y="2109" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCL13</text>
+<rect x="1700" y="1983" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="1740" y="2007" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCR5</text>
 <rect x="1630" y="808" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="1670" y="832" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">ZBP1</text>
 <rect x="1520" y="860" width="80" height="40" rx="5" fill="#e7dbe2" stroke="#000"/>
@@ -376,10 +376,10 @@
 <text x="1355" y="719" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">RIPK3</text>
 <rect x="1315" y="650" width="80" height="40" rx="5" fill="#e7dbe2" stroke="#000"/>
 <text x="1355" y="674" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">RIPK1</text>
-<rect x="1926.9" y="1948.5" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="1966.9" y="1972.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCL13</text>
-<rect x="1926.9" y="1993.5" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
-<text x="1966.9" y="2017.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCR5</text>
+<rect x="1861.5" y="1951" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="1901.5" y="1975" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCL13</text>
+<rect x="1861.5" y="1996" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="1901.5" y="2020" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">CXCR5</text>
 <rect x="1525" y="695" width="70" height="35" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="1560" y="716.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">ZBP1</text>
 <rect x="1525" y="735" width="70" height="35" rx="5" fill="#66b2ff" stroke="#000"/>
@@ -524,9 +524,9 @@
 <polyline points="1355.58,767.98 1358.46,807.52"/>
 <polyline points="1507.47,761.45 1366.06,812.46"/>
 <polyline points="1289.78,848 1292.86,958.01"/>
-<polyline points="1899.9,2001 1894.9,2001"/>
-<polyline points="1872.25,2065.7 1901.28,2001"/>
-<polyline points="1948.36,1935.8 1874.53,1676.12"/>
+<polyline points="1788,2003.15 1829.5,2003.28"/>
+<polyline points="1812.75,2077.03 1806.81,2003.21"/>
+<polyline points="1901.5,1938 1901.5,1677"/>
 <polyline points="1560,852 1560,817"/>
 <polyline points="1622.02,831.33 1560,835.62"/>
 <polyline points="5465,748 5465,778"/>
@@ -834,13 +834,13 @@
 <polygon points="1293.5,981 1288.08,966.15 1298.08,965.87" fill="#000"/>
 <polygon points="1293.37,976.2 1291.17,969.06 1295.16,968.95" fill="#fff"/>
 <polyline points="1289.56,840 1293.08,966.01" fill="none" stroke="#000000" stroke-width="1"/>
-<polygon points="1916.9,2001 1901.9,2006 1901.9,1996" fill="#000"/>
-<polyline points="1891.9,2001 1902.9,2001" fill="none" stroke="#e69500" stroke-width="1"/>
-<polyline points="1868.97,2073 1901.28,2001" fill="none" stroke="#e69500" stroke-width="1"/>
-<rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(1904.4,2001) rotate(0)"/>
-<polygon points="1868.24,1654 1877.16,1667.06 1867.54,1669.8" fill="#000"/>
-<polygon points="1869.56,1658.62 1873.45,1665 1869.6,1666.09" fill="#fff"/>
-<polyline points="1950.55,1943.5 1872.35,1668.43" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="1851.5,2003.35 1836.48,2008.3 1836.52,1998.3" fill="#000"/>
+<polyline points="1780,2003.12 1837.5,2003.3" fill="none" stroke="#e69500" stroke-width="1"/>
+<polyline points="1813.39,2085 1806.81,2003.21" fill="none" stroke="#e69500" stroke-width="1"/>
+<rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(1815.75,2003.23) rotate(0.18)"/>
+<polygon points="1901.5,1654 1906.5,1669 1896.5,1669" fill="#000"/>
+<polygon points="1901.5,1658.8 1903.5,1666 1899.5,1666" fill="#fff"/>
+<polyline points="1901.5,1946 1901.5,1669" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="1560,795 1565,810 1555,810" fill="#000"/>
 <polyline points="1560,860 1560,809" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 <polyline points="1630,830.77 1560,835.62" fill="none" stroke="#1f6fd1" stroke-width="1"/>
