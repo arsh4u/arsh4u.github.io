@@ -5484,6 +5484,25 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add67" species="s_add66" compartmentAlias="ca1">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="6070.0" y="2110.0" w="80.0" h="40.0"/>
+<celldesigner:font size="20"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="40.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ff66b2ff" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
 </celldesigner:listOfSpeciesAliases>
 <celldesigner:listOfGroups/>
 <celldesigner:listOfProteins>
@@ -5599,6 +5618,7 @@
 <celldesigner:protein id="pr_add57" name="GALC" type="GENERIC"/>
 <celldesigner:protein id="pr_add60" name="AXL" type="GENERIC"/>
 <celldesigner:protein id="pr_add63" name="FCGR3A" type="GENERIC"/>
+<celldesigner:protein id="pr_add68" name="IL34" type="GENERIC"/>
 </celldesigner:listOfProteins>
 <celldesigner:listOfGenes/>
 <celldesigner:listOfRNAs/>
@@ -8093,6 +8113,17 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
 <celldesigner:proteinReference>pr_add27</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add66" id="s_add66" name="IL34" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add68</celldesigner:proteinReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
@@ -26541,7 +26572,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add66" id="re_add66" reversible="false">
+<reaction metaid="re_add69" id="re_add69" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26559,7 +26590,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add66">
+<rdf:Description rdf:about="#re_add69">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42842725"/>
@@ -26587,7 +26618,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add67" id="re_add67" reversible="false">
+<reaction metaid="re_add70" id="re_add70" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>NEGATIVE_INFLUENCE</celldesigner:reactionType>
@@ -26607,7 +26638,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add67">
+<rdf:Description rdf:about="#re_add70">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42842725"/>
@@ -26635,7 +26666,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add68" id="re_add68" reversible="false">
+<reaction metaid="re_add71" id="re_add71" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26653,7 +26684,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add68">
+<rdf:Description rdf:about="#re_add71">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:15728241"/>
@@ -26686,7 +26717,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add69" id="re_add69" reversible="false">
+<reaction metaid="re_add72" id="re_add72" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26706,7 +26737,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add69">
+<rdf:Description rdf:about="#re_add72">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:15728241"/>
@@ -26734,7 +26765,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add70" id="re_add70" reversible="false">
+<reaction metaid="re_add73" id="re_add73" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26754,7 +26785,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add70">
+<rdf:Description rdf:about="#re_add73">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42425959"/>
@@ -26782,7 +26813,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add71" id="re_add71" reversible="false">
+<reaction metaid="re_add74" id="re_add74" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26802,7 +26833,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add71">
+<rdf:Description rdf:about="#re_add74">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32552741"/>
@@ -26830,7 +26861,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add72" id="re_add72" reversible="false">
+<reaction metaid="re_add75" id="re_add75" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26848,7 +26879,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add72">
+<rdf:Description rdf:about="#re_add75">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32552741"/>
@@ -26876,7 +26907,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add73" id="re_add73" reversible="false">
+<reaction metaid="re_add76" id="re_add76" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26894,7 +26925,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add73">
+<rdf:Description rdf:about="#re_add76">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:31940754"/>
@@ -26927,7 +26958,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add74" id="re_add74" reversible="false">
+<reaction metaid="re_add77" id="re_add77" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26947,7 +26978,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add74">
+<rdf:Description rdf:about="#re_add77">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:41254084"/>
@@ -26975,7 +27006,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add75" id="re_add75" reversible="false">
+<reaction metaid="re_add78" id="re_add78" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -26993,7 +27024,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add75">
+<rdf:Description rdf:about="#re_add78">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:11777545"/>
@@ -27026,7 +27057,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add76" id="re_add76" reversible="false">
+<reaction metaid="re_add79" id="re_add79" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27044,7 +27075,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add76">
+<rdf:Description rdf:about="#re_add79">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32879487"/>
@@ -27072,7 +27103,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add77" id="re_add77" reversible="false">
+<reaction metaid="re_add80" id="re_add80" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27092,7 +27123,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add77">
+<rdf:Description rdf:about="#re_add80">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32879487"/>
@@ -27120,7 +27151,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add78" id="re_add78" reversible="false">
+<reaction metaid="re_add81" id="re_add81" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27142,7 +27173,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add78">
+<rdf:Description rdf:about="#re_add81">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:33388423"/>
@@ -27170,7 +27201,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add79" id="re_add79" reversible="false">
+<reaction metaid="re_add82" id="re_add82" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>NEGATIVE_INFLUENCE</celldesigner:reactionType>
@@ -27190,7 +27221,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add79">
+<rdf:Description rdf:about="#re_add82">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:31024547"/>
@@ -27218,7 +27249,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add80" id="re_add80" reversible="false">
+<reaction metaid="re_add83" id="re_add83" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27238,7 +27269,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add80">
+<rdf:Description rdf:about="#re_add83">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:17595227"/>
@@ -27271,7 +27302,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add81" id="re_add81" reversible="false">
+<reaction metaid="re_add84" id="re_add84" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>NEGATIVE_INFLUENCE</celldesigner:reactionType>
@@ -27291,7 +27322,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add81">
+<rdf:Description rdf:about="#re_add84">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:41454349"/>
@@ -27319,7 +27350,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add82" id="re_add82" reversible="false">
+<reaction metaid="re_add85" id="re_add85" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27337,7 +27368,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add82">
+<rdf:Description rdf:about="#re_add85">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:37679549"/>
@@ -27370,7 +27401,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add83" id="re_add83" reversible="false">
+<reaction metaid="re_add86" id="re_add86" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27388,7 +27419,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add83">
+<rdf:Description rdf:about="#re_add86">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:37679549"/>
@@ -27416,7 +27447,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add84" id="re_add84" reversible="false">
+<reaction metaid="re_add87" id="re_add87" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27434,7 +27465,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add84">
+<rdf:Description rdf:about="#re_add87">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:26642091"/>
@@ -27467,7 +27498,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add85" id="re_add85" reversible="false">
+<reaction metaid="re_add88" id="re_add88" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27487,7 +27518,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add85">
+<rdf:Description rdf:about="#re_add88">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:27132056"/>
@@ -27515,7 +27546,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add86" id="re_add86" reversible="false">
+<reaction metaid="re_add89" id="re_add89" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27535,7 +27566,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add86">
+<rdf:Description rdf:about="#re_add89">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:12032144"/>
@@ -27568,7 +27599,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add87" id="re_add87" reversible="false">
+<reaction metaid="re_add90" id="re_add90" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27586,7 +27617,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add87">
+<rdf:Description rdf:about="#re_add90">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42178562"/>
@@ -27619,7 +27650,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add88" id="re_add88" reversible="false">
+<reaction metaid="re_add91" id="re_add91" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27637,7 +27668,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add88">
+<rdf:Description rdf:about="#re_add91">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42178562"/>
@@ -27665,7 +27696,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add89" id="re_add89" reversible="false">
+<reaction metaid="re_add92" id="re_add92" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27683,7 +27714,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add89">
+<rdf:Description rdf:about="#re_add92">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:28575206"/>
@@ -27711,7 +27742,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add90" id="re_add90" reversible="false">
+<reaction metaid="re_add93" id="re_add93" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27731,7 +27762,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add90">
+<rdf:Description rdf:about="#re_add93">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42425959"/>
@@ -27759,7 +27790,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add91" id="re_add91" reversible="false">
+<reaction metaid="re_add94" id="re_add94" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27777,7 +27808,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add91">
+<rdf:Description rdf:about="#re_add94">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:42425959"/>
@@ -27805,7 +27836,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add92" id="re_add92" reversible="false">
+<reaction metaid="re_add95" id="re_add95" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27823,7 +27854,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add92">
+<rdf:Description rdf:about="#re_add95">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32879487"/>
@@ -27851,7 +27882,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add93" id="re_add93" reversible="false">
+<reaction metaid="re_add140" id="re_add140" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27869,7 +27900,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add93">
+<rdf:Description rdf:about="#re_add140">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32879487"/>
@@ -27897,7 +27928,7 @@ SemanticZoomLevelTransparency: 0
 </speciesReference>
 </listOfProducts>
 </reaction>
-<reaction metaid="re_add94" id="re_add94" reversible="false">
+<reaction metaid="re_add141" id="re_add141" reversible="false">
 <annotation>
 <celldesigner:extension>
 <celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
@@ -27917,7 +27948,7 @@ SemanticZoomLevelTransparency: 0
 <celldesigner:line width="1.0" color="ff1f6fd1"/>
 </celldesigner:extension>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#re_add94">
+<rdf:Description rdf:about="#re_add141">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:32879487"/>
@@ -27940,6 +27971,52 @@ SemanticZoomLevelTransparency: 0
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa222</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfProducts>
+</reaction>
+<reaction metaid="re_add142" id="re_add142" reversible="false">
+<annotation>
+<celldesigner:extension>
+<celldesigner:reactionType>REDUCED_PHYSICAL_STIMULATION</celldesigner:reactionType>
+<celldesigner:baseReactants>
+<celldesigner:baseReactant species="s_add66" alias="sa_add67"/>
+</celldesigner:baseReactants>
+<celldesigner:baseProducts>
+<celldesigner:baseProduct species="s_add46" alias="sa_add47"/>
+</celldesigner:baseProducts>
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ff1f6fd1"/>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#re_add142">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:27132056"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference metaid="CDMT00758" species="s_add66">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add67</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfReactants>
+<listOfProducts>
+<speciesReference metaid="CDMT00759" species="s_add46">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add47</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </speciesReference>

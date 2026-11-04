@@ -617,7 +617,7 @@
    "maps": [
     "chrneuroinflammation46-updated"
    ],
-   "summary": "Lactate dehydrogenase A supplies the lactate of microglial glycolysis. Microglia-specific Ldha deletion changes microglial histone lactylation and the course of EAE in mice, and LDHA knockdown in microglia lowers glycolysis and shifts their state in an MPTP Parkinson model. The two studies differ on whether LDHA loss is pro- or anti-inflammatory, so only its glycolytic role is drawn.",
+   "summary": "Lactate dehydrogenase A turns glycolytic pyruvate into lactate. In microglia LDHA knockdown lowers glycolysis (extracellular acidification) and shifts them away from the pro-inflammatory state in an MPTP Parkinson model (Yan 2026). In female mice with EAE, microglial LDHA and its lactate are protective instead: microglia-specific Ldha deletion lowers H4K12 lactylation and worsens disease, and lactate raises GDNF and FGF1 (Li 2026, read in full). The two studies differ on whether LDHA loss is pro- or anti-inflammatory, so only its glycolytic role is drawn.",
    "links": [
     "Drives glycolysis in microglia."
    ],
@@ -2049,6 +2049,27 @@
     {
      "pmid": "42425959",
      "cite": "Matoba K et al. 2026, Nat Commun."
+    }
+   ],
+   "disease_note": "",
+   "diseases": []
+  },
+  {
+   "name": "IL34",
+   "full_name": "",
+   "round": 2,
+   "colour": "#66b2ff",
+   "maps": [
+    "chrneuroinflammation46-updated"
+   ],
+   "summary": "Interleukin-34 is the second CSF1R ligand, made by neurons. In primary mouse neuron-glia cultures IL-34, like CSF1 from neurons and astrocytes, makes microglia tolerant to repeated endotoxin through CSF1R and ERK (Chu 2016, read in full). Added (not on the list) beside CSF1.",
+   "links": [
+    "Binds CSF1R on microglia (top-level map)."
+   ],
+   "refs": [
+    {
+     "pmid": "27132056",
+     "cite": "Chu CH et al. 2016, Brain Behav Immun."
     }
    ],
    "disease_note": "",

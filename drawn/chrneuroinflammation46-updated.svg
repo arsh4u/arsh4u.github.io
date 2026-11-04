@@ -455,6 +455,8 @@
 <text x="7604.2" y="2314.57" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">FCGR3A</text>
 <rect x="4483.7" y="1072.6" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="4523.7" y="1099.27" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IFITM3</text>
+<rect x="6070" y="2110" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="6110" y="2136.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IL34</text>
 <rect x="6250" y="960" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
 <text x="6290" y="986.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">IFNGR1</text>
 <rect x="6250" y="1005" width="80" height="40" rx="5" fill="#f7f7f7" stroke="#000"/>
@@ -905,6 +907,7 @@
 <polyline points="4507.28,927.96 4519.42,1049.71"/>
 <polyline points="4672.54,1108.36 4586.57,1099.26"/>
 <polyline points="4523.7,1120.6 4523.69,1649.98 5177,1650"/>
+<polyline points="6157.23,2107.67 6182.71,2095.63"/>
 </g>
 <polygon points="1953.5,1580.5 1958.5,1595.5 1948.5,1595.5" fill="#000"/>
 <polygon points="1953.5,1585.3 1955.5,1592.5 1951.5,1592.5" fill="#fff"/>
@@ -1985,4 +1988,7 @@
 <polygon points="5200,1650 5185,1655 5185,1645" fill="#000"/>
 <polygon points="5195.2,1650 5188,1652 5188,1648" fill="#fff"/>
 <polyline points="4523.7,1112.6 4523.69,1649.98 5185,1650" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<polygon points="6203.5,2085.81 6192.08,2096.74 6187.8,2087.7" fill="#000"/>
+<polygon points="6199.16,2087.86 6193.51,2092.74 6191.8,2089.13" fill="#fff"/>
+<polyline points="6150,2111.09 6189.94,2092.22" fill="none" stroke="#1f6fd1" stroke-width="1"/>
 </svg>
