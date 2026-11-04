@@ -974,7 +974,8 @@
    ],
    "summary": "CXCR5 is induced in hippocampal microglia in mouse sepsis, where its knockout lowers p38 activation, IL-1beta, IL-6 and cognitive deficits, and in primary microglia its knockdown lowers LPS-induced p38 and NF-kB activation. In spinal neurons it is needed for CXCL13 to activate NF-kB. In the retina and after stroke CXCR5 has been reported as protective, so its effect depends on the setting. Added as the missing partner of CXCL13, after it passed the bar by itself.",
    "links": [
-    "Activates NF-kB signalling in neurons (top-level map and Neuron signaling); activates MAPK and NF-kB signalling in microglia (top-level map, shown after LPS without added CXCL13)."
+    "Binds CXCL13 on neurons and activates NF-kB signalling (top-level map and Neuron signaling).",
+    "On microglia CXCR5 drives MAPK and NF-kB signalling (top-level map); CXCL13, its only known ligand (Legler 1998), is drawn binding it there too, though the microglial study used LPS without adding CXCL13."
    ],
    "refs": [
     {

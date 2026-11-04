@@ -399,6 +399,8 @@
 <text x="6859" y="762.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCR5</text>
 <rect x="4793.9" y="1117.1" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="4833.9" y="1143.77" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">VTN</text>
+<rect x="6819" y="615" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="6859" y="641.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">CXCL13</text>
 <rect x="7058.6" y="1301.1" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
 <text x="7098.6" y="1327.77" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">GPNMB</text>
 <rect x="6235" y="1540" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
@@ -851,6 +853,7 @@
 <polyline points="4833.9,1165.1 4833.91,2498.52 6725.4,2498.5"/>
 <polyline points="6790.4,2498.5 6752.99,2498.5 6753,1652"/>
 <polyline points="4727.89,1248.01 4444.17,1185.25"/>
+<polyline points="6859,663 6859,713"/>
 <polyline points="7133.09,1345.75 7135.71,1347.63"/>
 <polyline points="7050.6,1321.1 5240.01,1321.05 5240,1679"/>
 <polyline points="6193,1560 6212,1560"/>
@@ -1847,6 +1850,9 @@
 <polygon points="4421.71,1180.29 4437.44,1178.64 4435.28,1188.41" fill="#000"/>
 <polygon points="4426.4,1181.32 4433.86,1180.93 4433,1184.83" fill="#fff"/>
 <polyline points="4735.7,1249.74 4436.36,1183.53" fill="none" stroke="#e69500" stroke-width="1"/>
+<polygon points="6859,736 6854,721 6864,721" fill="#000"/>
+<polygon points="6859,731.2 6857,724 6861,724" fill="#fff"/>
+<polyline points="6859,655 6859,721" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="7154.43,1361 7139.31,1356.35 7145.13,1348.21" fill="#000"/>
 <polygon points="7150.52,1358.21 7143.5,1355.65 7145.83,1352.4" fill="#fff"/>
 <polyline points="7126.58,1341.1 7142.22,1352.28" fill="none" stroke="#1f6fd1" stroke-width="1"/>
