@@ -1054,7 +1054,7 @@
 </celldesigner:compartmentAlias>
 <celldesigner:compartmentAlias id="ca10" compartment="c10">
 <celldesigner:class>SQUARE</celldesigner:class>
-<celldesigner:bounds x="1210.0" y="600.0" w="290.0" h="300.0"/>
+<celldesigner:bounds x="1210.0" y="600.0" w="405.0" h="300.0"/>
 <celldesigner:namePoint x="1311.5" y="858.5"/>
 <celldesigner:doubleLine thickness="13.0" outerWidth="2.0" innerWidth="1.0"/>
 <celldesigner:paint color="ff66b44d" scheme="Color"/>
@@ -1522,9 +1522,9 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:complexSpeciesAlias>
-<celldesigner:complexSpeciesAlias id="csa_add9" species="s_add8" compartmentAlias="ca1">
+<celldesigner:complexSpeciesAlias id="csa_add9" species="s_add8" compartmentAlias="ca10">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1515.0" y="690.0" w="90.0" h="105.0"/>
+<celldesigner:bounds x="1505.0" y="690.0" w="90.0" h="105.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -3978,7 +3978,7 @@
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add3" species="s_add2" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1630.0" y="808.0" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1640.0" y="605.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -3997,7 +3997,7 @@
 </celldesigner:speciesAlias>
 <celldesigner:speciesAlias id="sa_add6" species="s_add5" compartmentAlias="ca1">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1520.0" y="860.0" w="80.0" h="40.0"/>
+<celldesigner:bounds x="1660.0" y="690.0" w="80.0" h="40.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -4014,9 +4014,9 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add11" species="s_add10" compartmentAlias="ca1" complexSpeciesAlias="csa_add9">
+<celldesigner:speciesAlias id="sa_add11" species="s_add10" compartmentAlias="ca10" complexSpeciesAlias="csa_add9">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1525.0" y="695.0" w="70.0" h="35.0"/>
+<celldesigner:bounds x="1515.0" y="695.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -4033,9 +4033,9 @@
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
-<celldesigner:speciesAlias id="sa_add13" species="s_add12" compartmentAlias="ca1" complexSpeciesAlias="csa_add9">
+<celldesigner:speciesAlias id="sa_add13" species="s_add12" compartmentAlias="ca10" complexSpeciesAlias="csa_add9">
 <celldesigner:activity>inactive</celldesigner:activity>
-<celldesigner:bounds x="1525.0" y="735.0" w="70.0" h="35.0"/>
+<celldesigner:bounds x="1515.0" y="735.0" w="70.0" h="35.0"/>
 <celldesigner:font size="12"/>
 <celldesigner:view state="usual"/>
 <celldesigner:usualView>
@@ -5487,7 +5487,7 @@
 </celldesigner:extension>
 </annotation>
 </species>
-<species metaid="s_add8" id="s_add8" name="ZBP1:RIPK3" compartment="c1" initialAmount="0">
+<species metaid="s_add8" id="s_add8" name="ZBP1:RIPK3" compartment="c10" initialAmount="0">
 <annotation>
 <celldesigner:extension>
 <celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>

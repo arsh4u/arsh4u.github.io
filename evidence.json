@@ -1399,7 +1399,7 @@
    ],
    "summary": "Z-DNA binding protein 1 is a sensor that engages RIPK3. In neurons it is needed to restrict neuroinvasive Zika virus, with loss of RIPK3 phosphorylation in its absence, and it engages RIPK3 in microglia.",
    "links": [
-    "Binds RIPK3 (RHIM interaction); the ZBP1:RIPK3 complex phosphorylates MLKL (Neuron signaling)."
+    "Binds RIPK3 (RHIM interaction) into a ZBP1:RIPK3 necrosome, which phosphorylates MLKL (Neuron signaling)."
    ],
    "refs": [
     {
