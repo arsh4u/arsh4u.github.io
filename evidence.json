@@ -366,11 +366,11 @@
    "colour": "#ffcc00",
    "maps": [
     "mapt-cleavage-updated",
-    "nlrp3-inflammasome-updated"
+    "neuron-signaling-updated"
    ],
    "summary": "Cathepsin D is the main lysosomal aspartic protease of the brain. Its loss in mice turns microglia and astrocytes reactive, with iNOS and NO-driven neuronal death. Cathepsin D degrades alpha-synuclein in the neuronal lysosome (dopaminergic neurons) and tau (purified enzyme, neuroblastoma cells, CatD-knockout tauopathy mice), and its deficiency leads to insoluble alpha-synuclein and hyperphosphorylated tau.",
    "links": [
-    "Catalyses the degradation of alpha-synuclein in the phagolysosome (NLRP3 inflammasome). The papers show this in neurons, not microglia; where to draw it is open.",
+    "Catalyses the degradation of alpha-synuclein in the neuronal lysosome, shown in dopaminergic neurons and Ctsd-knockout mice (Neuron signaling); it was drawn in the microglial phagolysosome before the full texts were read.",
     "Catalyses the degradation of tau in neurons (MAPT cleavage)."
    ],
    "refs": [
@@ -1234,9 +1234,10 @@
    "maps": [
     "nlrp3-inflammasome-updated"
    ],
-   "summary": "Glucocerebrosidase is the lysosomal enzyme lost in Gaucher disease and a Parkinson risk gene. Its loss and alpha-synuclein form a bidirectional loop: low GCase raises alpha-synuclein, which in turn lowers GCase, shown in neurons and patient tissue.",
+   "summary": "Glucocerebrosidase breaks down glucosylceramide in lysosomes. In microglia, its inhibition makes glucosylceramide accumulate, which lets mitochondrial DNA leak into the cytosol and triggers STING-dependent inflammation and neuron loss, in culture and in mice (Wang 2024). In neurons, GCase loss slows the lysosomal degradation of alpha-synuclein, and alpha-synuclein in turn blocks GCase trafficking to the lysosome (Mazzulli 2011).",
    "links": [
-    "Cleaves glucosylceramide to ceramide in the phagolysosome; glucosylceramide, which builds up when GBA1 is low, slows the lysosomal clearance of alpha-synuclein (it stabilises soluble oligomers), drawn as an inhibition of the omitted (//) clearance step (NLRP3 inflammasome, Mazzulli 2011). The loop back, alpha-synuclein blocking GBA1 transport to the lysosome, is not drawn."
+    "Breaks down glucosylceramide in the phagolysosome; glucosylceramide activates STING by steps not shown (//, mitochondrial DNA release), and active STING drives microglial activation (NLRP3 inflammasome).",
+    "Needed for the lysosomal degradation of alpha-synuclein by cathepsin D in neurons, by a mechanism not shown (dashed catalysis) (Neuron signaling)."
    ],
    "refs": [
     {

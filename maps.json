@@ -244,13 +244,13 @@
   "slug": "neuron-signaling-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/Neuron signaling.xml",
-  "sha1": "0c8a7380f9da07b6e8066f40c6a73d2cf4079b85",
+  "sha1": "3a5dfffbef4cf4e92855d7361a83ca48374a1f43",
   "error": "",
   "notes": [],
-  "svg": "27c0ca765ca27779ac4b7a01f3a2d2a78d7b9f45",
+  "svg": "fb68fdef40b13980d32dc5c7773c0147c37ccf34",
   "width": 6250.0,
   "height": 2350.0,
-  "ann": "db86658d7f6c614d8d19031d88e0eb12d8acfdd7",
+  "ann": "122e55493abe7d1c3cfeb1be1474d3d9a56f72a4",
   "updated": true
  },
  {
@@ -284,13 +284,13 @@
   "slug": "nlrp3-inflammasome-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/NLRP3 inflammasome.xml",
-  "sha1": "724a59980523e2adbe6a476771f021a2d9bdbc40",
+  "sha1": "f81902f22476f567c2a9dc34cbb79a54cbd2d3ea",
   "error": "",
   "notes": [],
-  "svg": "4e49fd651084f63e5340c3849c7bca66d3a15a34",
+  "svg": "c6d04778f51bc05c39aa7379f39f43b749f0a654",
   "width": 4450.0,
   "height": 2650.0,
-  "ann": "b861cd233b705fba34b9323cebd8de583075d68e",
+  "ann": "22f3f603a5b29c6bef02e81f3441921bcf2e71fa",
   "updated": true
  },
  {
