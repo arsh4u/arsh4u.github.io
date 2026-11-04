@@ -1490,9 +1490,10 @@
    "maps": [
     "chrneuroinflammation46-updated"
    ],
-   "summary": "Interferon-induced transmembrane protein 3 is induced by IFN-gamma in neurons and by IL-6 and IL-1beta in astrocytes. It binds the gamma-secretase complex near its active site and raises amyloid-beta, and its knockout lowers gamma-secretase activity and plaques in 5xFAD mice.",
+   "summary": "Interferon-induced transmembrane protein 3 binds the active gamma-secretase complex near its catalytic site and raises amyloid-beta 40 and 42 production; its knockout lowers gamma-secretase activity and plaques in 5xFAD mice. IFN-gamma and IFN-alpha induce it in primary mouse neurons, and IL-6 and IL-1beta in human astrocytes, where it also raises gamma-secretase activity (Hur 2020, read in full). It has the opposite effect on Notch cleavage.",
    "links": [
-    "Induced by IFN-gamma receptor signalling and raises amyloid processing in neurons (top-level map)."
+    "Induced by IFN-gamma receptor signalling and raises amyloid processing in neurons (top-level map).",
+    "Induced by IL-1 and IL-6 receptor signalling in astrocytes and raises amyloid-beta production there (top-level map)."
    ],
    "refs": [
     {
