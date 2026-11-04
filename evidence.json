@@ -283,7 +283,7 @@
    ],
    "summary": "The atypical chemokine receptor ACKR1 (Darc) shuttles chemokines across endothelium. In mouse EAE its expression in blood-brain barrier endothelial cells depends on endothelial IL-1R1 signalling.",
    "links": [
-    "Induced by IL-1 receptor signalling in endothelial cells."
+    "IL-1 receptor signalling in brain endothelial cells lowers heme oxygenase-1 (HMOX1), which keeps ACKR1 (DARC) down, so IL-1 raises ACKR1 (top-level map; endothelial Il1r1 and Hmox1 deletion and HO-1 overexpression, Hauptmann 2020)."
    ],
    "refs": [
     {
@@ -1109,6 +1109,27 @@
     {
      "pmid": "29222114",
      "cite": "Keasey MP et al. 2018, J Cell Sci."
+    }
+   ],
+   "disease_note": "",
+   "diseases": []
+  },
+  {
+   "name": "HMOX1",
+   "full_name": "",
+   "round": 1,
+   "colour": "#ffcc00",
+   "maps": [
+    "chrneuroinflammation46-updated"
+   ],
+   "summary": "Heme oxygenase-1 in blood-brain barrier endothelium restrains the IL-1 response: IL-1 receptor signalling lowers it, and endothelial Hmox1 deletion raises ACKR1 (DARC), ICAM-1 and VCAM-1 while HO-1 overexpression lowers them, with milder EAE (mouse, Hauptmann 2020). Added (not on the list) as the step between the IL-1 receptor and ACKR1.",
+   "links": [
+    "Lowered by IL-1 receptor signalling and lowers ACKR1 in endothelial cells (top-level map)."
+   ],
+   "refs": [
+    {
+     "pmid": "32651669",
+     "cite": "Hauptmann J et al. 2020, Acta Neuropathol."
     }
    ],
    "disease_note": "",

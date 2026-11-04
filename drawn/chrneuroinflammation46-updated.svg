@@ -367,6 +367,8 @@
 <text x="7097" y="1079.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">TAB2</text>
 <rect x="2551.1" y="1196.4" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="2591.1" y="1223.07" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">ACKR1</text>
+<rect x="2420" y="1215" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
+<text x="2460" y="1241.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">HMOX1</text>
 <rect x="6709" y="856" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="6749" y="882.67" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="20" text-anchor="middle">GRN</text>
 <rect x="4120" y="2360" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
@@ -834,7 +836,6 @@
 <polyline points="1825.22,956.89 1896.55,1258.98"/>
 <polyline points="6825.3,4362.87 7085.08,4589.94"/>
 <polyline points="7049.07,1079.31 6861.77,1103.97"/>
-<polyline points="2558.38,1165.24 2565.92,1177.02"/>
 <polyline points="6709.93,863.95 6735.31,1080.08"/>
 <polyline points="4192.03,2404.91 4305.6,2493.25"/>
 <polyline points="7260.31,1343.63 7254.6,1347.68"/>
@@ -865,6 +866,8 @@
 <polyline points="3125,1692 3125,1160 4195,1160"/>
 <polyline points="6740.4,2545 3452.4,2545 3452.4,930.7"/>
 <polyline points="3452.4,859.7 3452.4,770 5268,770"/>
+<polyline points="2485.6,1166 2471.25,1204.69"/>
+<polyline points="2507.92,1228.2 2540.21,1223.62"/>
 <polyline points="7133.09,1345.75 7135.71,1347.63"/>
 <polyline points="7050.6,1321.1 5240.01,1321.05 5240,1679"/>
 <polyline points="6193,1560 6212,1560"/>
@@ -1788,9 +1791,6 @@
 <polygon points="6838.97,1106.97 6853.19,1100.06 6854.49,1109.97" fill="#000"/>
 <polygon points="6843.73,1106.34 6850.61,1103.42 6851.13,1107.39" fill="#fff"/>
 <polyline points="7057,1078.27 6853.84,1105.01" fill="none" stroke="#e69500" stroke-width="1"/>
-<polygon points="2578.31,1196.4 2566.02,1186.46 2574.44,1181.07" fill="#000"/>
-<polygon points="2575.72,1192.36 2570.16,1187.37 2573.53,1185.21" fill="#fff"/>
-<polyline points="2554.07,1158.5 2570.23,1183.76" fill="none" stroke="#e69500" stroke-width="1"/>
 <line x1="6730.29" y1="1088.72" x2="6742.2" y2="1087.32" stroke="#000"/>
 <polyline points="6709,856 6736.24,1088.02" fill="none" stroke="#e69500" stroke-width="1"/>
 <line x1="4308.23" y1="2502.89" x2="4315.6" y2="2493.42" stroke="#000"/>
@@ -1874,6 +1874,10 @@
 <polygon points="5291,770 5276,775 5276,765" fill="#000"/>
 <polygon points="5286.2,770 5279,772 5279,768" fill="#fff"/>
 <polyline points="3452.4,867.7 3452.4,770 5276,770" fill="none" stroke="#e69500" stroke-width="1"/>
+<line x1="2462.84" y1="1210.1" x2="2474.09" y2="1214.27" stroke="#000"/>
+<polyline points="2488.38,1158.5 2468.46,1212.19" fill="none" stroke="#e69500" stroke-width="1"/>
+<line x1="2548.97" y1="1228.44" x2="2547.29" y2="1216.56" stroke="#000"/>
+<polyline points="2500,1229.32 2548.13,1222.5" fill="none" stroke="#e69500" stroke-width="1"/>
 <polygon points="7154.43,1361 7139.31,1356.35 7145.13,1348.21" fill="#000"/>
 <polygon points="7150.52,1358.21 7143.5,1355.65 7145.83,1352.4" fill="#fff"/>
 <polyline points="7126.58,1341.1 7142.22,1352.28" fill="none" stroke="#1f6fd1" stroke-width="1"/>
