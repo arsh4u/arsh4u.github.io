@@ -1442,11 +1442,13 @@
    "colour": "#66b2ff",
    "maps": [
     "astrocyte-signaling-updated",
-    "chrneuroinflammation46-updated"
+    "chrneuroinflammation46-updated",
+    "neuron-signaling-updated"
    ],
    "summary": "Interferon regulatory factor 1 is induced by IFN-gamma in astrocytes and binds inflammatory gene promoters. Astrocyte-specific Irf1 deletion limits blood-brain barrier disruption after injury, and Irf1 knockout reduces EAE and infarct size.",
    "links": [
-    "Induced by IFN-gamma receptor signalling (top-level map). In the astrocyte nucleus it drives CXCL10 transcription (Astrocyte signaling). The outgoing top-level arc to CXCL10 was removed."
+    "Induced by IFN-gamma receptor signalling (top-level map). In the astrocyte nucleus it drives CXCL10 transcription (Astrocyte signaling). The outgoing top-level arc to CXCL10 was removed.",
+    "In neurons IRF1 is activated downstream of ZBP1:RIPK3 and drives ACOD1 production (Neuron signaling, Daniels 2019)."
    ],
    "refs": [
     {
@@ -1460,6 +1462,10 @@
     {
      "pmid": "11536325",
      "cite": "Dell'Albani P et al. 2001, J Neurosci Res."
+    },
+    {
+     "pmid": "30635240",
+     "cite": "Daniels BP et al. 2019, Immunity."
     }
    ],
    "disease_note": "",
@@ -1484,7 +1490,8 @@
    ],
    "summary": "Z-DNA binding protein 1 is a sensor that engages RIPK3. In mouse neurons it is needed to restrict neuroinvasive Zika and West Nile virus: ZBP1 loss lowers RIPK3 phosphorylation, and RIPK3 drives IRF1-dependent IRG1 (ACOD1) and itaconate without killing the neuron; MLKL and caspase-8 are dispensable (Daniels 2019, read in full).",
    "links": [
-    "Binds RIPK3 (RHIM interaction) into ZBP1:RIPK3 (Neuron signaling). The MLKL phosphorylation drawn earlier came from a BV2 microglia virus study and was removed: in neurons the complex does not act through MLKL."
+    "Binds RIPK3 (RHIM interaction) into ZBP1:RIPK3 (Neuron signaling). The MLKL phosphorylation drawn earlier came from a BV2 microglia virus study and was removed: in neurons the complex does not act through MLKL.",
+    "In neurons ZBP1:RIPK3 activates IRF1 by a mechanism not shown (?); active IRF1 drives ACOD1 (IRG1) production (//), ACOD1 makes itaconate from cis-aconitate, and itaconate inhibits succinate dehydrogenase, which restricts the virus without killing the neuron (Neuron signaling; Irf1 knockdown abolished Irg1 induction in primary neurons, Daniels 2019)."
    ],
    "refs": [
     {
