@@ -9216,6 +9216,63 @@ extracelular
 </celldesigner:briefView>
 <celldesigner:info state="empty" angle="-1.5707963267948966"/>
 </celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add3" species="s_add2" compartmentAlias="ca51">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2580.0" y="8151.0" w="80.0" h="40.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="40.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ff66b2ff" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add6" species="s_add5" compartmentAlias="ca51">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2575.0" y="7780.0" w="30.0" h="30.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="30.0" height="30.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ff66b2ff" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
+<celldesigner:speciesAlias id="sa_add8" species="s_add7" compartmentAlias="ca51">
+<celldesigner:activity>inactive</celldesigner:activity>
+<celldesigner:bounds x="2720.0" y="7787.0" w="90.0" h="25.0"/>
+<celldesigner:font size="12"/>
+<celldesigner:view state="usual"/>
+<celldesigner:usualView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="90.0" height="25.0"/>
+<celldesigner:singleLine width="1"/>
+<celldesigner:paint color="ff66b2ff" scheme="Color"/>
+</celldesigner:usualView>
+<celldesigner:briefView>
+<celldesigner:innerPosition x="0.0" y="0.0"/>
+<celldesigner:boxSize width="80.0" height="60.0"/>
+<celldesigner:singleLine width="0.0"/>
+<celldesigner:paint color="3fff0000" scheme="Color"/>
+</celldesigner:briefView>
+<celldesigner:info state="empty" angle="-1.5707963267948966"/>
+</celldesigner:speciesAlias>
 </celldesigner:listOfSpeciesAliases>
 <celldesigner:listOfGroups/>
 <celldesigner:listOfProteins>
@@ -9291,6 +9348,7 @@ extracelular
 <celldesigner:protein id="pr202" name="TGFB2" type="GENERIC"/>
 <celldesigner:protein id="pr203" name="TGFB3" type="GENERIC"/>
 <celldesigner:protein id="pr_add5" name="GRN" type="GENERIC"/>
+<celldesigner:protein id="pr_add4" name="TYROBP" type="GENERIC"/>
 </celldesigner:listOfProteins>
 <celldesigner:listOfGenes/>
 <celldesigner:listOfRNAs>
@@ -9299,6 +9357,7 @@ extracelular
 <celldesigner:RNA id="rn4" name="ITGAX" type="RNA"/>
 <celldesigner:RNA id="rn5" name="AXL" type="RNA"/>
 <celldesigner:RNA id="rn6" name="CLEC7A" type="RNA"/>
+<celldesigner:RNA id="rn_add9" name="APOE" type="RNA"/>
 </celldesigner:listOfRNAs>
 <celldesigner:listOfAntisenseRNAs/>
 <celldesigner:listOfLayers>
@@ -12417,6 +12476,39 @@ activated microglia
 <celldesigner:speciesIdentity>
 <celldesigner:class>PROTEIN</celldesigner:class>
 <celldesigner:proteinReference>pr_add5</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add2" id="s_add2" name="TYROBP" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>transmembrane</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>PROTEIN</celldesigner:class>
+<celldesigner:proteinReference>pr_add4</celldesigner:proteinReference>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add5" id="s_add5" name="APOE_source" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>DEGRADED</celldesigner:class>
+<celldesigner:name>APOE_source</celldesigner:name>
+</celldesigner:speciesIdentity>
+</celldesigner:extension>
+</annotation>
+</species>
+<species metaid="s_add7" id="s_add7" name="APOE" compartment="c1" initialAmount="0">
+<annotation>
+<celldesigner:extension>
+<celldesigner:positionToCompartment>inside</celldesigner:positionToCompartment>
+<celldesigner:speciesIdentity>
+<celldesigner:class>RNA</celldesigner:class>
+<celldesigner:rnaReference>rn_add9</celldesigner:rnaReference>
 </celldesigner:speciesIdentity>
 </celldesigner:extension>
 </annotation>
@@ -21680,6 +21772,71 @@ activated microglia
 <annotation>
 <celldesigner:extension>
 <celldesigner:alias>sa_add4</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</modifierSpeciesReference>
+</listOfModifiers>
+</reaction>
+<reaction metaid="re_add10" id="re_add10" reversible="false">
+<annotation>
+<celldesigner:extension>
+<celldesigner:reactionType>UNKNOWN_TRANSITION</celldesigner:reactionType>
+<celldesigner:baseReactants>
+<celldesigner:baseReactant species="s_add5" alias="sa_add6"/>
+</celldesigner:baseReactants>
+<celldesigner:baseProducts>
+<celldesigner:baseProduct species="s_add7" alias="sa_add8"/>
+</celldesigner:baseProducts>
+<celldesigner:connectScheme connectPolicy="direct" rectangleIndex="0">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ff1f6fd1"/>
+<celldesigner:listOfModification>
+<celldesigner:modification type="PHYSICAL_STIMULATION" modifiers="s_add2" aliases="sa_add3" targetLineIndex="-1,3">
+<celldesigner:connectScheme connectPolicy="direct">
+<celldesigner:listOfLineDirection>
+<celldesigner:lineDirection index="0" value="unknown"/>
+</celldesigner:listOfLineDirection>
+</celldesigner:connectScheme>
+<celldesigner:line width="1.0" color="ff1f6fd1"/>
+</celldesigner:modification>
+</celldesigner:listOfModification>
+</celldesigner:extension>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#re_add10">
+<bqmodel:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:33314529"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+</annotation>
+<listOfReactants>
+<speciesReference metaid="CDMT00971" species="s_add5">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add6</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfReactants>
+<listOfProducts>
+<speciesReference metaid="CDMT00972" species="s_add7">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add8</celldesigner:alias>
+</celldesigner:extension>
+</annotation>
+</speciesReference>
+</listOfProducts>
+<listOfModifiers>
+<modifierSpeciesReference metaid="CDMT00973" species="s_add2">
+<annotation>
+<celldesigner:extension>
+<celldesigner:alias>sa_add3</celldesigner:alias>
 </celldesigner:extension>
 </annotation>
 </modifierSpeciesReference>

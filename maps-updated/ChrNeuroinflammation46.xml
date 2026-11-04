@@ -26346,6 +26346,11 @@ SemanticZoomLevelTransparency: 0
 <rdf:Description rdf:about="#re_add65">
 <bqmodel:isDescribedBy>
 <rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:31940754"/>
+</rdf:Bag>
+</bqmodel:isDescribedBy>
+<bqmodel:isDescribedBy>
+<rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:pubmed:36870375"/>
 </rdf:Bag>
 </bqmodel:isDescribedBy>

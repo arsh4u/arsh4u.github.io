@@ -1137,11 +1137,13 @@
    "round": 2,
    "colour": "#66b2ff",
    "maps": [
-    "chrneuroinflammation46-updated"
+    "chrneuroinflammation46-updated",
+    "microglial-phagocytosis-of-protein-aggregates-neurons-and-synapses-updated"
    ],
    "summary": "TYROBP (DAP12) is the signalling adaptor of TREM2 and other microglial receptors. In primary mouse microglia a dominant-negative DAP12 abolishes TREM2-driven phagocytosis of apoptotic neurons, and its loss changes disease in amyloid and tau mice.",
    "links": [
-    "Binds TREM2 and supports phagocytosis in microglia (top-level map)."
+    "Binds TREM2 and supports phagocytosis in microglia (top-level map).",
+    "Needed for the rise of APOE RNA in microglia, also without TREM2; the steps between are not shown, so the step is an unknown process (Microglial phagocytosis)."
    ],
    "refs": [
     {
@@ -1151,6 +1153,10 @@
     {
      "pmid": "33053435",
      "cite": "Cui X et al. 2021, Brain Res Bull."
+    },
+    {
+     "pmid": "33314529",
+     "cite": "Audrain M et al. 2021, Alzheimers Dement."
     }
    ],
    "disease_note": "",
@@ -1462,12 +1468,17 @@
    "maps": [
     "chrneuroinflammation46-updated"
    ],
-   "summary": "CYBB (NOX2, gp91phox) is the catalytic subunit of the microglial and neuronal NADPH oxidase that makes superoxide. In an LPS Parkinson model NOX2 drives degeneration, and neuronal NOX2 deletion is protective.",
+   "summary": "CYBB (NOX2, gp91phox) is the catalytic subunit of the microglial and neuronal NADPH oxidase that makes superoxide. In IL-10-deficient mouse microglia NOX2-derived ROS drive NLRP3 inflammasome priming and caspase-1 activation, and in an LPS Parkinson model neuronal NOX2 drives dopaminergic neuron loss, which NOX2-deficient neurons escape.",
    "links": [
     "Drives oxidative stress in microglia (top-level map).",
-    "As part of NADPH oxidase (CYBB, CYBA, NCF1, NCF2, RAC1) reduces oxygen to superoxide (Ferroptosis)."
+    "As part of NADPH oxidase (CYBB, CYBA, NCF1, NCF2, RAC1) reduces oxygen to ROS in microglia, and the ROS drive NLRP3 inflammasome activation by steps not yet known (NLRP3 inflammasome).",
+    "As part of the neuronal NADPH oxidase reduces oxygen to ROS in neurons (Neuron signaling)."
    ],
    "refs": [
+    {
+     "pmid": "31940754",
+     "cite": "Gao Y et al. 2020, Int J Mol Sci."
+    },
     {
      "pmid": "36870375",
      "cite": "Tu D et al. 2023, Free Radic Biol Med."

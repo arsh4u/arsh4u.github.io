@@ -17,13 +17,13 @@
   "slug": "chrneuroinflammation46-updated",
   "group": "Top-level map",
   "file": "maps-updated/ChrNeuroinflammation46.xml",
-  "sha1": "0f49a78ac285fcf007c98fd5d28d341aa2e8e91e",
+  "sha1": "52d1c2c373e0656c29b395366c82e07c82868047",
   "error": "",
   "notes": [],
   "svg": "0964677e343a1fa4dcbec5cf5eb40990a2776102",
   "width": 8950.0,
   "height": 6450.0,
-  "ann": "f1e2695536583ed18a91aa7d666af9aabb306cda",
+  "ann": "68bca7f1332717bc47996dd51575137ec6d6c2fb",
   "updated": true
  },
  {
@@ -134,20 +134,6 @@
   "ann": "fe7daa626afeb1af3426c3184303678940f68a72"
  },
  {
-  "name": "Ferroptosis (updated)",
-  "slug": "ferroptosis-updated",
-  "group": "Submaps",
-  "file": "maps-updated/submaps/Ferroptosis.xml",
-  "sha1": "bd8c18bd0e0138082b981d8d6f168c3f15d086d6",
-  "error": "",
-  "notes": [],
-  "svg": "af94dab0601bdf9f36df1485a8ffaae03ecf123b",
-  "width": 7350.0,
-  "height": 5900.0,
-  "ann": "d21683498751bcb6afc6cc52ed195994f67b46bc",
-  "updated": true
- },
- {
   "name": "MAPT aggregation and degradation",
   "slug": "mapt-aggregation-and-degradation",
   "group": "Submaps",
@@ -218,13 +204,13 @@
   "slug": "microglial-phagocytosis-of-protein-aggregates-neurons-and-synapses-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/Microglial phagocytosis of protein aggregates, neurons and synapses.xml",
-  "sha1": "3b6bb76ca08bd9577a4618a50c37646c7431af4e",
+  "sha1": "627c18cc4ec9f888cc45a71323bb4104cb427df8",
   "error": "",
   "notes": [],
-  "svg": "ef97159cba1f45e483dff3cce18f93ce5990f40b",
+  "svg": "aed8708658c1e553be85b97584450e39cfffc801",
   "width": 11350.0,
   "height": 12500.0,
-  "ann": "3b5eeb247c1a0d23e7470c2a6880a25f991de784",
+  "ann": "0ed08a7505828aca3167051d442d8eb5937ad70c",
   "updated": true
  },
  {
@@ -258,13 +244,13 @@
   "slug": "neuron-signaling-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/Neuron signaling.xml",
-  "sha1": "d2884e592d101165a92a4eec85265bbda0b5005b",
+  "sha1": "5167b7699c5a48c9b82df13297363aeb71e3ac9b",
   "error": "",
   "notes": [],
-  "svg": "cc7f226557be8f49d6d65a33b7f99f3e37360ae0",
+  "svg": "7988fa4a0a5847f3c46e3e2a1f74d44006f31c0a",
   "width": 6250.0,
   "height": 2350.0,
-  "ann": "0e20795f228fcadb6abb6e9f66c7e3831dadd038",
+  "ann": "315930173b984115b147feba2f214c3464850781",
   "updated": true
  },
  {
@@ -298,13 +284,13 @@
   "slug": "nlrp3-inflammasome-updated",
   "group": "Submaps",
   "file": "maps-updated/submaps/NLRP3 inflammasome.xml",
-  "sha1": "9de89471a66e3f614a2b1ff478bc596280ce89af",
+  "sha1": "36649bed56912bae8726ad1c50abe2bb9ca617f7",
   "error": "",
   "notes": [],
-  "svg": "114160e143e7d0d727ec71bd3bf9c6fab42ddeef",
+  "svg": "b5b8ffd8c797cb1cc1572c9382ad4d014af4d9b0",
   "width": 4450.0,
   "height": 2650.0,
-  "ann": "256cf99c44a3011b6e7709f986f507ee50424e8c",
+  "ann": "a3669eb281df4f2d56450311c154d04c237b9490",
   "updated": true
  },
  {

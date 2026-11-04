@@ -524,6 +524,12 @@
 <line x1="3506" y1="8369" x2="3494" y2="8399" stroke="#000"/>
 <rect x="3529.3" y="8340" width="80" height="40" rx="5" fill="#ffcc00" stroke="#000"/>
 <text x="3569.3" y="8364" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">GRN</text>
+<rect x="2580" y="8151" width="80" height="40" rx="5" fill="#66b2ff" stroke="#000"/>
+<text x="2620" y="8175" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">TYROBP</text>
+<circle cx="2590" cy="7795" r="11.25" fill="#66b2ff" stroke="#000"/>
+<line x1="2596" y1="7780" x2="2584" y2="7810" stroke="#000"/>
+<polygon points="2745,7787 2810,7787 2785,7812 2720,7812" fill="#66b2ff" stroke="#000"/>
+<text x="2765" y="7803.5" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">APOE</text>
 <ellipse cx="8963.5" cy="10233" rx="35" ry="12.5" fill="#ccff66" stroke="#000"/>
 <text x="8963.5" y="10237" font-family="'Dialog', 'Liberation Sans', Arial, sans-serif" font-size="12" text-anchor="middle">IP3</text>
 <rect x="8834.75" y="9560" width="80" height="40" rx="5" fill="#ccffcc" stroke="#000"/>
@@ -1015,6 +1021,8 @@
 <polyline points="7442.51,6587 7442.63,6411.71 7566,6411.79"/>
 <polyline points="3500,8403.25 3500,8408"/>
 <polyline points="3538.67,8385.07 3507.32,8410.72"/>
+<polyline points="2609.23,7795.49 2711.32,7798.12"/>
+<polyline points="2623.57,8143.06 2666.13,7809.92"/>
 </g>
 <polygon points="800,7985 795,7970 805,7970" fill="#000"/>
 <polyline points="240,7305 240,7520 800,7520 800,7971" fill="none" stroke="#000000" stroke-width="1"/>
@@ -1560,4 +1568,9 @@
 <line x1="3503.52" y1="8406.08" x2="3511.12" y2="8415.37" stroke="#000"/>
 <polyline points="3544.86,8380 3507.32,8410.72" fill="none" stroke="#e69500" stroke-width="1"/>
 <rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(3500,8412.62) rotate(90)"/><text x="3500" y="8415.62" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" text-anchor="middle">?</text>
+<polygon points="2733.31,7798.69 2718.19,7803.3 2718.45,7793.3" fill="#000"/>
+<polyline points="2601.23,7795.29 2719.32,7798.33" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<polygon points="2667.14,7801.99 2670.1,7810.43 2662.16,7809.41" fill="#fff" stroke="#000"/>
+<polyline points="2622.56,8151 2666.13,7809.92" fill="none" stroke="#1f6fd1" stroke-width="1"/>
+<rect x="-5" y="-5" width="10" height="10" fill="#fff" stroke="#000" transform="translate(2667.27,7796.99) rotate(1.47)"/><text x="2667.27" y="7799.99" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" text-anchor="middle">?</text>
 </svg>

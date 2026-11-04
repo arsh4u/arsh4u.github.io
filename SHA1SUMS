@@ -86,12 +86,11 @@ e9c836a429f88eed468eccc54d193c0b7911f637  maps/submaps/Mitophagy and mitochondri
 743f93e4c8aed877236535ae2348ddff268e0952  maps/submaps/Neuron signaling.xml
 c30fcdc5b159ed11db388682e76c0888c6ad1ae5  maps/submaps/Oligodendrocyte signaling.xml
 9c149f8032a20b244549aa534be7f32190e3b031  maps/submaps/altered BBB permeability.xml
-0f49a78ac285fcf007c98fd5d28d341aa2e8e91e  maps-updated/ChrNeuroinflammation46.xml
+52d1c2c373e0656c29b395366c82e07c82868047  maps-updated/ChrNeuroinflammation46.xml
 c0269da682bd50b72a77f197a57dd14294a12656  maps-updated/submaps/APP processing.xml
 4a42e125f2de4bf06e9f36cd94e9df1fe9b7dc47  maps-updated/submaps/Astrocyte signaling.xml
-bd8c18bd0e0138082b981d8d6f168c3f15d086d6  maps-updated/submaps/Ferroptosis.xml
 cffcef4291014606f8ab72b11cb57f2a9110aa1a  maps-updated/submaps/MAPT cleavage.xml
-3b6bb76ca08bd9577a4618a50c37646c7431af4e  maps-updated/submaps/Microglial phagocytosis of protein aggregates, neurons and synapses.xml
-9de89471a66e3f614a2b1ff478bc596280ce89af  maps-updated/submaps/NLRP3 inflammasome.xml
-d2884e592d101165a92a4eec85265bbda0b5005b  maps-updated/submaps/Neuron signaling.xml
+627c18cc4ec9f888cc45a71323bb4104cb427df8  maps-updated/submaps/Microglial phagocytosis of protein aggregates, neurons and synapses.xml
+36649bed56912bae8726ad1c50abe2bb9ca617f7  maps-updated/submaps/NLRP3 inflammasome.xml
+5167b7699c5a48c9b82df13297363aeb71e3ac9b  maps-updated/submaps/Neuron signaling.xml
 b97624a685c8c4a1a6d7004bb562a984a1bc63b7  maps-updated/submaps/altered BBB permeability.xml
