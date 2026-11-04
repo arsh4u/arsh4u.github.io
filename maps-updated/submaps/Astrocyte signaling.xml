@@ -4,7 +4,7 @@
 <annotation>
 <celldesigner:extension>
 <celldesigner:modelVersion>4.0</celldesigner:modelVersion>
-<celldesigner:modelDisplay sizeX="13244" sizeY="7334"/>
+<celldesigner:modelDisplay sizeX="6800" sizeY="2700"/>
 <celldesigner:listOfIncludedSpecies>
 <celldesigner:species id="s8" name="CASR">
 <celldesigner:notes>

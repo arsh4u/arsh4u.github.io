@@ -4,7 +4,7 @@
 <annotation>
 <celldesigner:extension>
 <celldesigner:modelVersion>4.0</celldesigner:modelVersion>
-<celldesigner:modelDisplay sizeX="6231" sizeY="5114"/>
+<celldesigner:modelDisplay sizeX="4350" sizeY="2050"/>
 <celldesigner:listOfIncludedSpecies>
 <celldesigner:species id="s71" name="SIRT1">
 <celldesigner:notes>

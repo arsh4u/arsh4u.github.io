@@ -4,7 +4,7 @@
 <annotation>
 <celldesigner:extension>
 <celldesigner:modelVersion>4.0</celldesigner:modelVersion>
-<celldesigner:modelDisplay sizeX="10000" sizeY="7000"/>
+<celldesigner:modelDisplay sizeX="8950" sizeY="6450"/>
 <celldesigner:listOfIncludedSpecies>
 <celldesigner:species id="s947" name="IFNGR1">
 <celldesigner:notes>
